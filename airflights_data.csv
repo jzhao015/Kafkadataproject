@@ -1,0 +1,2099 @@
+Date,delayed ,cancelled ,orig,dest
+11/1/2022,TRUE,FALSE,Tingloy,Gaotian
+4/26/2024,TRUE,TRUE,Aginskoye,Hekou
+9/7/2024,FALSE,FALSE,Karangsari,Xingxi
+10/6/2023,TRUE,TRUE,Erba,Kuty
+1/2/2022,TRUE,TRUE,Gatbo,Paprotnia
+8/26/2022,FALSE,FALSE,Tsagaandörvölj,Zebrzydowice
+3/11/2023,TRUE,TRUE,Tabora,Coruripe
+4/28/2024,FALSE,TRUE,Karamat,Ngedhubasa
+7/16/2023,TRUE,FALSE,Cucuyagua,Ystad
+6/29/2024,FALSE,TRUE,Zhengchang,Marau
+6/9/2024,FALSE,TRUE,Selaparang Timur,Mahābād
+6/17/2023,FALSE,FALSE,Wenquan,Sundre
+10/2/2022,TRUE,TRUE,Añatuya,Juliaca
+5/8/2023,FALSE,TRUE,Yulin,Siteki
+7/14/2024,FALSE,TRUE,Laascaanood,Saurama
+9/21/2022,TRUE,TRUE,Giporlos,Matola
+10/11/2022,TRUE,TRUE,Vicente Guerrero,Anniston
+1/2/2024,TRUE,FALSE,Maiac,Qishn
+9/24/2023,TRUE,TRUE,Vito,Beitai
+4/22/2024,FALSE,TRUE,Shelabolikha,Hekou
+5/19/2024,FALSE,TRUE,Dayingjie,Elverum
+10/28/2023,FALSE,FALSE,Manlucahoc,Debeljača
+8/21/2024,TRUE,TRUE,Roriz,Huchang
+2/27/2023,TRUE,FALSE,Xin’an,Wang Sam Mo
+11/8/2023,FALSE,FALSE,Jinxiang,Dikhil
+7/31/2024,FALSE,FALSE,Неготино,Clearwater
+8/5/2022,TRUE,TRUE,Glamang,Lameira
+9/8/2024,FALSE,FALSE,Milano,Saḩab
+3/24/2022,TRUE,TRUE,Toutuo,Da Nang
+10/22/2022,FALSE,FALSE,Calatrava,Qiangtou
+11/5/2022,FALSE,FALSE,Strathmore,Ape
+8/30/2022,TRUE,FALSE,Barra de Carrasco,Zhayang
+12/16/2023,FALSE,FALSE,Khon San,Pom Prap Sattru Phai
+12/4/2022,TRUE,TRUE,Martakert,Tanūmah
+11/10/2022,TRUE,FALSE,San Fernando,Santa Maria
+8/8/2022,TRUE,FALSE,Samagaltay,Duyanggang
+5/18/2023,TRUE,FALSE,Charlotte,Goshogawara
+6/6/2024,FALSE,FALSE,Brudzew,Santa Cristina Couto
+8/7/2022,TRUE,FALSE,Báguanos,Kuchurhan
+1/13/2024,TRUE,FALSE,General Luna,Dapitan
+3/18/2022,TRUE,FALSE,Gorzyce,Karangtengah
+12/30/2022,FALSE,FALSE,Daming,Marinići
+8/18/2022,FALSE,TRUE,Cosmópolis,Pontevedra
+4/18/2023,TRUE,FALSE,Larreynaga,Jishigang
+5/28/2022,FALSE,FALSE,Capim Grosso,Pyshchug
+4/20/2024,FALSE,TRUE,Bantardawa,Borås
+5/1/2023,TRUE,FALSE,Żurowa,Łyse
+4/22/2024,TRUE,FALSE,Aguiar da Beira,Shangjie
+12/15/2023,TRUE,TRUE,Bambuí,Yanfolila
+3/31/2024,FALSE,FALSE,Bouça,Huping
+2/15/2024,FALSE,TRUE,Bolkhov,Skórzec
+6/24/2022,FALSE,TRUE,Summerland,Radojevo
+4/19/2022,TRUE,TRUE,Chepareria,Uppsala
+5/30/2023,TRUE,FALSE,La Azulita,Matanza
+1/19/2023,FALSE,TRUE,Shuangqiao,Briey
+3/5/2023,TRUE,TRUE,Sanhu,‘Afrīn
+10/19/2022,TRUE,FALSE,Denton,Paris 16
+1/10/2022,FALSE,FALSE,Jiaozhou,Shalakusha
+8/6/2022,TRUE,TRUE,Sijihong,Mercaderes
+1/24/2024,FALSE,TRUE,Nanhuatang,Znamenka
+8/19/2022,TRUE,TRUE,Wonodadi,Lyon
+2/1/2022,TRUE,FALSE,Barra Mansa,Dong Liang’erzhuang
+4/1/2023,TRUE,TRUE,Barobo,Aoshi
+8/9/2023,TRUE,FALSE,Yihe,Rzhev
+8/21/2023,FALSE,TRUE,Utrecht (stad),Xiongji
+5/23/2022,TRUE,TRUE,Liangbing,Nyíregyháza
+8/1/2024,TRUE,FALSE,Priargunsk,Shalya
+8/23/2022,TRUE,TRUE,Daojiang,Niquelândia
+2/16/2024,FALSE,FALSE,Guanhães,Novocherkassk
+10/22/2022,TRUE,FALSE,Ergates,Las Palomas
+6/16/2023,TRUE,FALSE,Nemby,Sanjian
+7/3/2024,FALSE,FALSE,Cannes,Kaz
+8/27/2022,FALSE,FALSE,Jincheng,Savannah
+9/9/2024,FALSE,TRUE,Keda,Zhonghekou
+10/25/2022,TRUE,FALSE,Baní,Tuchkovo
+6/19/2023,TRUE,TRUE,Vicente Guerrero,Kovernino
+12/29/2023,FALSE,TRUE,Adzopé,Arbois
+12/22/2022,FALSE,TRUE,Dabao’anzhen,Kuala Lumpur
+9/10/2022,FALSE,TRUE,Wolfsberg,Shawnee Mission
+8/12/2022,TRUE,TRUE,Longping,Pacatuba
+7/7/2022,FALSE,FALSE,Lunyuk Ode,Synya
+8/11/2022,TRUE,TRUE,Kiel,Kabasalan
+2/8/2023,TRUE,TRUE,Lille,Manolo Fortich
+2/22/2022,FALSE,FALSE,Vacha,Yakimovo
+5/28/2022,TRUE,FALSE,Monaghan,São Luís do Quitunde
+1/10/2024,FALSE,TRUE,Vista Hermosa,Ribas do Rio Pardo
+3/29/2022,TRUE,FALSE,Charxin,Pico Truncado
+1/11/2023,FALSE,FALSE,Licun,El Marañón
+2/27/2022,TRUE,TRUE,Sano,Courtaboeuf
+6/10/2023,FALSE,TRUE,Shōbu,Aguilar
+9/4/2024,TRUE,FALSE,Huangzhu,São Miguel do Araguaia
+7/10/2022,FALSE,TRUE,Cergy-Pontoise,Stockholm
+7/27/2024,FALSE,FALSE,Jiannan,Göteborg
+8/6/2024,TRUE,TRUE,Jangheung,Mbandjok
+12/26/2022,TRUE,TRUE,Caieiras,Machang
+10/21/2023,FALSE,FALSE,Madrid,Geputan
+8/4/2022,TRUE,TRUE,Bertioga,Újezd
+5/18/2024,FALSE,TRUE,Orhon,Koanara
+4/21/2022,TRUE,FALSE,Caucagüito,Zamoskvorech’ye
+9/22/2024,TRUE,TRUE,Xiaochi,Tabogon
+2/4/2022,TRUE,FALSE,Bogojevo,Bugko
+3/5/2023,FALSE,TRUE,Hyesan-si,Shatki
+4/2/2024,TRUE,TRUE,At Tibnī,Sendangwaru
+1/24/2023,TRUE,TRUE,Oenaik,San Fabian
+10/8/2022,TRUE,FALSE,Santa Rosa,Xiali
+7/18/2023,FALSE,TRUE,Ängelholm,Hamburg
+7/1/2023,FALSE,FALSE,Stockholm,Yulin
+12/20/2023,TRUE,TRUE,Köln,Iperó
+3/4/2022,FALSE,FALSE,Xingfeng,Belfort
+7/25/2022,TRUE,TRUE,Debre Tabor,Chengyang
+1/24/2024,FALSE,FALSE,Yangjiafang,Wuchagou
+10/28/2022,TRUE,TRUE,Pancalan,Las Flores
+10/9/2023,FALSE,TRUE,Ollantaytambo,Dongpu
+12/31/2023,TRUE,TRUE,Xikou,Uji
+1/7/2022,TRUE,FALSE,Novosel’ye,Itamarandiba
+4/11/2024,FALSE,TRUE,Balabagan,Tvrdonice
+1/6/2023,TRUE,FALSE,Sengeti,Macieira de Rates
+4/13/2023,FALSE,TRUE,Plasy,Banjar Ambengan
+5/3/2023,FALSE,TRUE,Santa Cruz,Paris 09
+12/18/2022,FALSE,TRUE,Corral,Cereté
+2/14/2023,TRUE,FALSE,Florida,Pokotylivka
+1/1/2024,FALSE,FALSE,Trzciana,Kobeřice
+4/5/2023,FALSE,FALSE,Miches,Erada
+5/13/2024,FALSE,TRUE,Iława,Xiaoshiqiao
+7/19/2024,TRUE,FALSE,Jiujiang,Losino-Petrovskiy
+11/7/2023,TRUE,FALSE,Port Maria,Bilhorod-Dnistrovs’kyy
+9/30/2023,TRUE,FALSE,Aral,Xinwan
+10/26/2022,TRUE,FALSE,Promyshlennovskiy,Kurunegala
+1/10/2023,FALSE,TRUE,Bautista,Wajak
+12/1/2022,TRUE,TRUE,Drammen,Soledar
+12/17/2023,FALSE,TRUE,Sodankylä,Cunliji
+8/30/2024,TRUE,TRUE,Soriano,Keelung
+11/30/2023,FALSE,TRUE,Balindong,Kiukainen
+2/14/2023,TRUE,FALSE,Kototujuh,Dianfang
+8/29/2023,TRUE,TRUE,Paine,Karangnongko
+4/11/2023,TRUE,TRUE,Sanming,Xinhuang
+1/7/2023,FALSE,TRUE,Saint-Brieuc,Lökbatan
+2/28/2023,FALSE,TRUE,Balabag,Yag La
+12/15/2023,FALSE,TRUE,Havana,Shatian
+1/12/2024,TRUE,FALSE,El Bolsón,Cerro Colorado
+5/6/2024,TRUE,TRUE,Listowel,Amqui
+3/18/2022,FALSE,TRUE,Lazaro Cardenas,Santa Marta
+3/29/2023,FALSE,TRUE,Banjar Timbrah,Planeta Rica
+8/27/2024,FALSE,TRUE,Lübeck,Vidual
+6/18/2022,TRUE,TRUE,Vännäs,Xiaoyan
+10/8/2022,FALSE,FALSE,Longmen,Nanshan
+9/1/2024,FALSE,TRUE,Bačka Palanka,Vestmannaeyjar
+3/27/2024,TRUE,FALSE,Kongjiang,Al ‘Āliyah
+8/19/2022,TRUE,TRUE,Herrera,Zalţan
+8/7/2022,FALSE,FALSE,Blang Dalam,Lethbridge
+10/13/2023,FALSE,FALSE,Reims,Ostrowsko
+5/20/2022,FALSE,FALSE,Galveias,Lajarik
+2/11/2024,TRUE,TRUE,Lowotukan,Mineralni Bani
+1/18/2022,FALSE,TRUE,Rafaḩ,Ma‘lūlā
+7/8/2022,TRUE,TRUE,Stara Kornica,Palma De Mallorca
+7/30/2023,TRUE,TRUE,Reisdorf,Wonocolo
+8/18/2024,FALSE,FALSE,Adamstown,Faḩmah
+12/15/2023,TRUE,TRUE,Vargas,Baiju
+1/11/2024,FALSE,FALSE,Mbanga,Yanling
+7/29/2023,TRUE,TRUE,Loma,Kladruby
+1/16/2023,TRUE,FALSE,Topory,Adámas
+3/23/2023,FALSE,TRUE,Xiongchi,Kusheriki
+10/26/2022,FALSE,FALSE,Looc,Minien East
+1/29/2024,FALSE,TRUE,Labansari,Nyköping
+11/11/2023,FALSE,TRUE,Ptení,Ust’-Koksa
+4/16/2024,FALSE,TRUE,Qiongshan,Khrebtovaya
+9/24/2023,TRUE,TRUE,Doibang,Madīnat ash Shamāl
+10/10/2022,TRUE,FALSE,Lame,Quatro Barras
+9/30/2023,TRUE,FALSE,Dongshan,San Antonio
+12/11/2023,TRUE,TRUE,Lusaka,Tagawa
+1/10/2023,TRUE,FALSE,Beipai,Cordeiro
+4/29/2022,FALSE,TRUE,Béja,Houba
+9/27/2023,FALSE,FALSE,Machov,San Lorenzo
+9/7/2022,FALSE,TRUE,Baş Göynük,Zhongdong
+10/26/2023,FALSE,TRUE,Ceadîr-Lunga,Korydallós
+6/20/2022,TRUE,TRUE,Masis,Qaxa
+3/12/2022,TRUE,TRUE,Kario,Zlechov
+9/16/2022,TRUE,TRUE,Talisay,Montpellier
+2/1/2022,FALSE,FALSE,Messina,Rakhiv
+11/19/2023,FALSE,TRUE,Shostka,Armação
+3/13/2023,FALSE,FALSE,Pirané,Klippan
+5/12/2024,FALSE,TRUE,Heqian,Skillingaryd
+5/7/2023,TRUE,FALSE,Yunxiang,Tinawagan
+3/29/2022,TRUE,TRUE,Waegwan,Ruma
+5/20/2022,TRUE,FALSE,Tafo,Motala
+1/29/2024,FALSE,TRUE,Melfi,Muff
+1/19/2024,FALSE,TRUE,Gorelki,Longra
+7/20/2023,TRUE,TRUE,Ljungby,Dimataling
+3/23/2024,FALSE,FALSE,Cergy-Pontoise,Buôn Ma Thuột
+11/19/2023,FALSE,TRUE,Göteborg,Banyupoh
+6/3/2024,TRUE,TRUE,Lanjaghbyur,Nandu
+9/16/2023,TRUE,TRUE,Malawag,Mosina
+2/14/2022,FALSE,FALSE,Harnoli,Sviblovo
+4/9/2022,FALSE,TRUE,Néa Filadélfeia,Taketoyo
+5/13/2023,FALSE,FALSE,Asbest,Kedrovoye
+8/6/2022,TRUE,TRUE,Sidon,Krajan Gajahmati
+8/8/2022,TRUE,TRUE,Sergelen,Kadubera
+4/1/2022,TRUE,TRUE,Benešov nad Ploučnicí,Zaslawye
+4/12/2022,TRUE,FALSE,Tópaga,Ol’gino
+4/28/2023,FALSE,FALSE,Kambar,Teodoro Sampaio
+5/3/2023,TRUE,TRUE,Guanzhuang,Sacramento
+1/20/2023,FALSE,FALSE,Pásion,Sivers’k
+1/18/2022,TRUE,TRUE,Bayan Hot,Khān Arnabah
+10/30/2022,TRUE,FALSE,Anren Chengguanzhen,São Bento
+3/16/2024,FALSE,TRUE,Lühua,Huacrachuco
+1/18/2023,FALSE,TRUE,Álvares Machado,Jindayris
+11/23/2023,FALSE,TRUE,Qinggang,Longzhouwan
+10/9/2022,TRUE,TRUE,Kafr Nubl,Kebonan
+12/31/2023,TRUE,FALSE,Sandaogou,Damaturu
+10/27/2023,TRUE,FALSE,Privas,Khok Sung
+3/14/2022,TRUE,TRUE,Barong,Cikadu
+11/13/2023,FALSE,FALSE,Petrolina de Goiás,Fraile Pintado
+10/16/2022,TRUE,TRUE,Buckland,Bojszowy Nowe
+8/6/2023,TRUE,FALSE,Chiryū,Aswan
+2/16/2023,FALSE,FALSE,Ar Ru’ays,Erími
+11/12/2023,TRUE,TRUE,Duqiao,Nangan
+4/4/2022,TRUE,FALSE,Dalovice,Sulechów
+9/15/2023,FALSE,FALSE,Bodø,Liqiao
+8/20/2023,TRUE,FALSE,Weixin,São Sebastião
+2/6/2023,FALSE,TRUE,Jiangnan,Antas
+2/21/2024,TRUE,TRUE,Górki,La Virginia
+8/27/2024,TRUE,TRUE,Tonj,Kalidawir
+4/1/2023,TRUE,FALSE,Höganäs,Luz de Tavira
+3/19/2022,FALSE,FALSE,Gangu Chengguanzhen,Nanjing
+10/8/2023,TRUE,TRUE,Uusikaupunki,Texistepeque
+10/6/2023,FALSE,FALSE,Mabay,Praia da Vagueira
+10/27/2022,TRUE,FALSE,San Miguel,Vale de Mendiz
+8/12/2023,TRUE,FALSE,Ängelholm,Taling Chan
+9/27/2024,FALSE,FALSE,Sokółka,Avignon
+9/12/2022,FALSE,FALSE,Mir,Ntoke
+5/30/2024,FALSE,TRUE,Jinshiqiao,La Ceja
+3/13/2024,FALSE,FALSE,Katrineholm,Cilaja
+11/10/2023,TRUE,TRUE,Richmond,Cintra
+7/20/2024,FALSE,FALSE,Jaffna,Marne-la-Vallée
+5/28/2023,FALSE,TRUE,Gornji Petrovci,Baiima
+7/17/2023,TRUE,TRUE,Zhangping,Kvänum
+4/29/2022,FALSE,FALSE,Colón,Baiyun
+11/28/2023,FALSE,FALSE,Osan,Ngilengan
+7/30/2023,FALSE,TRUE,Pasrukrajan Satu,Huaiyuan Chengguanzhen
+2/22/2024,FALSE,FALSE,Des Moines,Arcos
+4/9/2024,FALSE,FALSE,Konza,Fuyong
+8/26/2023,FALSE,FALSE,Banyutengah,Takaka
+1/31/2023,TRUE,TRUE,Ratchaburi,Nantes
+2/17/2022,TRUE,FALSE,Jiangchi,Kole
+6/13/2023,FALSE,TRUE,Nanggewer,Outjo
+1/11/2022,FALSE,FALSE,Prachuap Khiri Khan,Algeciras
+1/15/2023,FALSE,FALSE,Machado,Foz do Arelho
+10/11/2022,TRUE,TRUE,San Remigio,Siekierczyn
+3/23/2022,FALSE,FALSE,Umeå,Tongshan
+3/16/2024,TRUE,FALSE,Berlin,Obuasi
+11/4/2023,TRUE,TRUE,Cipatat,Tonghu
+8/31/2022,FALSE,FALSE,Shreveport,Cedry Wielkie
+9/18/2024,FALSE,TRUE,Hénin-Beaumont,Karpinsk
+12/1/2023,FALSE,TRUE,Jinji,Mora
+6/28/2024,TRUE,FALSE,Belyy Gorodok,North Perth
+3/24/2024,TRUE,TRUE,Muaratiga,Jinchang
+1/15/2023,TRUE,TRUE,Midlands,Mutis
+4/13/2023,TRUE,TRUE,Sol’-Iletsk,Pandian
+2/26/2024,FALSE,TRUE,Kebonagung,Oklahoma City
+9/30/2024,TRUE,FALSE,Megati Kelod,Charlotte
+7/16/2023,FALSE,TRUE,Mikun’,Tabuny
+6/20/2022,FALSE,FALSE,Kruhlaye,Jinhe
+2/23/2023,TRUE,TRUE,Nguékhokh,Baipenzhu
+7/11/2023,TRUE,FALSE,Itapecerica,Wyszków
+10/9/2023,TRUE,FALSE,Maguwon,Guintubhan
+10/25/2022,FALSE,TRUE,Granada,Itaqui
+4/17/2024,TRUE,TRUE,Ornontowice,Entre Rios
+3/8/2023,TRUE,FALSE,Arcos,El Regalo
+10/1/2023,FALSE,FALSE,Wright,Chocianów
+10/1/2022,TRUE,TRUE,San Ramón de la Nueva Orán,Täby
+8/16/2024,FALSE,FALSE,Xinyi,Rukem
+4/27/2022,FALSE,FALSE,Al Nashmah,Daliang
+3/14/2022,FALSE,TRUE,Kulykiv,Sirte
+11/25/2022,FALSE,TRUE,Vale de São Cosme,Kafr Şūr
+11/1/2023,FALSE,FALSE,Wang Nam Khiao,Iporã
+10/10/2022,FALSE,TRUE,Kostryzhivka,Santiaoshi
+2/5/2023,FALSE,FALSE,La Rochelle,Крива Паланка
+6/5/2022,FALSE,TRUE,Dedza,Lebak
+12/21/2022,FALSE,TRUE,Longyuanba,Banovo Polje
+2/23/2023,TRUE,FALSE,Titao,Sukorejo
+3/16/2024,TRUE,FALSE,Shiogama,Amphawa
+3/11/2022,FALSE,TRUE,Vailoa,Hexi
+12/27/2022,FALSE,TRUE,Abaca,Ochobo
+9/23/2024,TRUE,TRUE,Severo-Zadonsk,San Emilio
+2/25/2023,TRUE,FALSE,Zapala,Tsalka
+4/16/2023,TRUE,TRUE,Novaya Usman’,Verkhnyachka
+4/5/2022,FALSE,TRUE,Leubatang,Álimos
+2/4/2023,TRUE,FALSE,Jayyūs,Fushan
+12/1/2023,FALSE,TRUE,Kalinovskoye,Thị Trấn Lâm
+7/16/2023,TRUE,FALSE,Pančevo,Xiangyang
+6/20/2022,FALSE,TRUE,Daming,Khlong Khuean
+8/21/2022,TRUE,TRUE,Turija,Tillabéri
+5/25/2022,FALSE,FALSE,Tønsberg,Horní Libina
+9/4/2024,TRUE,TRUE,Dhromolaxia,Pinyug
+12/15/2022,FALSE,FALSE,Parczew,Balbalan
+5/28/2024,FALSE,TRUE,Seboruco,Buayan
+1/18/2023,TRUE,TRUE,Huancaray,Tamahú
+5/16/2022,FALSE,FALSE,Trondheim,Dębowa Łąka
+3/24/2022,FALSE,TRUE,Soa,Anuchino
+12/18/2022,FALSE,TRUE,Tetandara,Ghazni
+9/1/2024,TRUE,FALSE,Mabini,Sunzhen
+8/25/2022,TRUE,TRUE,Tanamiting,Summerside
+4/28/2024,TRUE,FALSE,Norrköping,Rila
+3/13/2023,FALSE,TRUE,Alfenas,Złotniki
+2/3/2024,TRUE,TRUE,Moyuan,Balongmulyo
+2/15/2024,FALSE,FALSE,Halayhayin,Jedlová
+7/21/2022,FALSE,TRUE,Ocoyo,Rokiškis
+7/8/2022,TRUE,TRUE,Molodohvardiys’k,Gagarin
+8/22/2023,TRUE,FALSE,Hexing,Estevan
+11/18/2023,TRUE,TRUE,Paclolo,Petropavlovskaya
+1/11/2024,TRUE,TRUE,Constantia,Repentigny
+9/18/2024,FALSE,TRUE,Gubu,Liutang
+1/23/2024,FALSE,TRUE,Ceibas,Tokorozawa
+3/29/2024,FALSE,TRUE,Zhoupi,Lautaro
+8/1/2024,FALSE,FALSE,Amsterdam Oud Zuid en Rivierenbuurt,Kawanishi
+12/14/2022,TRUE,FALSE,Toride,Baz
+1/19/2022,FALSE,FALSE,Chenda,Tianfen
+4/19/2023,FALSE,TRUE,Huaqiao,Sakata
+6/15/2024,FALSE,TRUE,Marelesu,Don Carlos
+5/10/2024,FALSE,FALSE,Połomia,Juru
+10/10/2023,FALSE,TRUE,Laixi,Makoko
+9/10/2023,FALSE,TRUE,Ganyi,Dadapan
+3/10/2022,FALSE,TRUE,Kamirenjaku,Krajan
+8/29/2024,FALSE,FALSE,Mabunga,Charxin
+12/11/2022,FALSE,TRUE,Lembursawah,Atengmelang
+9/12/2024,TRUE,TRUE,Oborniki Śląskie,Shanjiang
+6/16/2023,TRUE,TRUE,Nîmes,Sidomakmur
+7/10/2023,FALSE,FALSE,Mazańcowice,Dębowa Łąka
+3/17/2024,TRUE,TRUE,Bezhta,Bintulu
+6/14/2024,TRUE,TRUE,Starigrad,Lawepakam
+4/9/2023,TRUE,TRUE,Dongyang,Bunia
+1/31/2024,FALSE,TRUE,Zhongpai,Vale Flores
+7/20/2022,FALSE,TRUE,Benito Juarez,Merida
+9/25/2024,FALSE,FALSE,Meixian,Tarata
+5/28/2023,FALSE,FALSE,Tobatí,San Felipe
+3/29/2024,FALSE,FALSE,Thanatpin,Bunga Mas
+9/6/2022,FALSE,FALSE,Falun,Cinyawang
+8/24/2023,FALSE,FALSE,Skien,Moch
+6/28/2022,FALSE,TRUE,Huangtan,Unquillo
+3/10/2023,FALSE,TRUE,Varginha,Piedra Blanca
+9/11/2023,TRUE,TRUE,Yarang,Néa Karyá
+11/29/2023,TRUE,FALSE,Makarska,Gwaram
+6/26/2023,TRUE,FALSE,Capalonga,Washington
+6/5/2022,TRUE,TRUE,Manorom,Vigo
+3/28/2023,TRUE,TRUE,Punta Cana,Honiara
+1/6/2023,FALSE,FALSE,Warungawi,Kněžpole
+5/16/2022,TRUE,FALSE,Ol’gino,Nnewi
+11/23/2023,TRUE,FALSE,Pico da Pedra,Cabiguan
+11/23/2023,FALSE,FALSE,Seremban,Yidian
+2/26/2023,TRUE,FALSE,Ramana,Uppsala
+10/23/2022,FALSE,FALSE,Vernon,Barda
+6/15/2023,FALSE,FALSE,Bella Vista,Bela Vista
+7/24/2022,FALSE,TRUE,Yingmaili,Zumiao
+10/5/2023,TRUE,FALSE,Boneng,Sihanoukville
+12/3/2023,TRUE,TRUE,Ipojuca,La Roche-sur-Yon
+11/15/2022,FALSE,FALSE,Kombandaru,Tangguhang
+5/17/2023,TRUE,FALSE,Mayorga,Almeirim
+9/8/2023,FALSE,TRUE,Särevere,Xikou
+5/17/2023,FALSE,TRUE,Maochen,Harjavalta
+2/20/2022,TRUE,FALSE,Jepat Kidul,Kamsack
+4/27/2023,TRUE,FALSE,Dasha,Lashkar Gāh
+8/18/2022,TRUE,FALSE,Bugcaon,Ipojuca
+4/2/2023,TRUE,TRUE,Uiasa,Hesheng
+1/31/2022,TRUE,FALSE,Saint-Herblain,Chikeng
+8/7/2024,FALSE,TRUE,Sollefteå,Huohua
+1/1/2024,TRUE,FALSE,Wiązownica,Hitura
+8/21/2024,FALSE,FALSE,Asheville,Utsjoki
+5/29/2023,TRUE,TRUE,Hovtamej,Veselí nad Lužnicí
+2/28/2023,TRUE,TRUE,Santa Luzia,Campurrejo
+9/6/2023,TRUE,FALSE,Iwai,Zielonki
+1/12/2023,FALSE,FALSE,Bergen,Irati
+5/2/2023,TRUE,TRUE,San Fernando Apure,Parang
+3/16/2022,FALSE,FALSE,Longsha,Chicago
+9/19/2023,FALSE,TRUE,Xiapu,Hila
+1/7/2024,FALSE,TRUE,Taocheng,Sucun
+2/2/2022,FALSE,TRUE,Coishco,Preobrazhenka
+10/30/2022,TRUE,FALSE,Pasirtujuhpuluh,Glubokiy
+3/1/2023,TRUE,FALSE,Ullubiyaul,Iktābah
+7/3/2023,FALSE,FALSE,Monte-Carlo,Karipidita
+3/22/2023,TRUE,FALSE,Samho-rodongjagu,Cikawunggading
+1/16/2023,FALSE,FALSE,Oslo,Noramarg
+6/18/2023,TRUE,FALSE,Norrtälje,Skore
+11/10/2023,FALSE,TRUE,Drásov,Élancourt
+12/23/2022,TRUE,TRUE,Joinville,Songhae
+5/5/2024,TRUE,FALSE,Tambo Grande,Uście Gorlickie
+11/22/2023,FALSE,TRUE,Embarcación,Vagonoremont
+3/7/2022,FALSE,TRUE,Solidaridad,Zernograd
+5/3/2023,FALSE,TRUE,Laidian,Uluale
+4/22/2023,FALSE,TRUE,Amancio,Pernå
+2/27/2024,TRUE,TRUE,Jablah,Jönköping
+1/9/2024,FALSE,FALSE,Ljungbyholm,Fryanovo
+4/28/2023,FALSE,FALSE,Pamyat’ Parizhskoy Kommuny,Chemin Grenier
+4/30/2022,TRUE,FALSE,Moutsamoudou,San Onofre
+3/15/2022,FALSE,TRUE,Zarichne,Chelgard
+4/28/2022,TRUE,FALSE,Valparaíso,Anzihao
+6/26/2022,TRUE,TRUE,Massy,Ngangpo
+10/20/2022,FALSE,FALSE,Huangtugang,Segezha
+2/26/2022,FALSE,FALSE,Bressuire,Tyresö
+4/13/2023,FALSE,FALSE,Khuzdār,Sidi Yahya Ou Saad
+9/5/2023,TRUE,FALSE,Ang Thong,Barusuda
+11/5/2022,FALSE,TRUE,Ai Tu,Henan’an
+3/14/2024,FALSE,FALSE,Smederevo,Longxi
+3/25/2024,TRUE,FALSE,Botevgrad,Kleszczewo
+6/10/2023,TRUE,TRUE,Kapuan,Bologna
+11/9/2023,FALSE,TRUE,Kutum,Juru
+4/22/2022,FALSE,FALSE,Mendenrejo,Baoquanshan
+4/10/2024,TRUE,FALSE,Iradan,Kachia
+12/11/2023,FALSE,TRUE,Saraktash,Blama
+10/25/2023,FALSE,FALSE,Yamagata-shi,Itapé
+8/15/2024,TRUE,FALSE,Dongshan,Alvarães
+11/24/2023,FALSE,TRUE,Kuching,Zhuhu
+5/31/2022,TRUE,FALSE,Bāniyās,Velikiy Ustyug
+3/28/2024,FALSE,FALSE,Kaduluhur,Bundoc
+6/9/2022,TRUE,FALSE,Pingyi,Qinshi
+4/4/2023,FALSE,TRUE,Beregovoy,Eleftheroúpolis
+6/3/2022,FALSE,TRUE,Yangjingziwan,Orsay
+3/4/2022,TRUE,FALSE,Cruzeiro,Jiang’an
+3/31/2023,TRUE,TRUE,Upper Hell's Gate,Rochester
+12/7/2023,TRUE,FALSE,Jiawu,Līvāni
+9/3/2022,TRUE,FALSE,Paradela,Cumadcad
+7/9/2023,FALSE,TRUE,Duba,Shentang
+1/5/2023,TRUE,FALSE,Nasavrky,Xidoupu
+3/4/2023,TRUE,TRUE,Korem,Charleston
+9/9/2023,FALSE,FALSE,Petushki,Ban Mo
+8/26/2024,FALSE,FALSE,Pasirgaru,Roa
+11/8/2023,FALSE,FALSE,Kilifarevo,Isperikh
+9/15/2024,FALSE,TRUE,Beauvais,Shīnḏanḏ
+1/4/2022,TRUE,TRUE,Manolo Fortich,Lamam
+4/25/2023,TRUE,FALSE,Cevicos,Shiraoka
+5/30/2024,FALSE,FALSE,Sawin,Hetang
+7/12/2023,TRUE,FALSE,Heshe,San Antonio
+2/1/2022,FALSE,FALSE,Acas,Billings
+6/24/2023,TRUE,TRUE,Banqiao,Rantaupanjang
+10/9/2023,FALSE,FALSE,Kesheng,Xiaomenjia
+2/25/2022,TRUE,FALSE,Pedregulho,Manchioneal
+5/4/2024,FALSE,TRUE,Sale,Ereencav
+12/18/2022,TRUE,FALSE,Córdoba,Tsementnozavodskiy
+1/8/2024,TRUE,TRUE,Duobao,Síkinos
+3/28/2023,FALSE,TRUE,Voskhod,Bridgetown
+9/25/2024,TRUE,FALSE,Cikalang,Shuiji
+3/7/2022,FALSE,FALSE,Dalam,Wushan
+6/30/2022,FALSE,FALSE,Strellc i Ulët,Warmare
+3/25/2023,FALSE,TRUE,Valbo,Bijeli
+5/24/2022,FALSE,TRUE,Khóra,Yanqul
+6/15/2023,FALSE,TRUE,Nanshi,Banos
+9/29/2024,TRUE,TRUE,Sanshan,Vatutine
+10/1/2024,FALSE,FALSE,Sam Phran,Xiaocheng
+6/16/2023,FALSE,FALSE,Łobżenica,São Fidélis
+7/12/2022,TRUE,FALSE,Sucun,Nha Trang
+7/26/2022,FALSE,FALSE,Cogreg Wetan,Razvanje
+8/28/2022,FALSE,TRUE,Xiangang,Banyuurip
+12/31/2023,TRUE,FALSE,Huifa,Mao’er
+6/19/2023,TRUE,FALSE,Solok Timur,El Arañado
+2/9/2022,FALSE,FALSE,Mangxing,Kampungdesa
+2/3/2024,TRUE,TRUE,Mikhaylovka,Uacon
+2/26/2024,FALSE,FALSE,Motema,Szczerców
+2/15/2022,FALSE,FALSE,Sydney,Canton
+4/4/2023,TRUE,TRUE,Gorzyce,Taipingying
+7/11/2022,TRUE,TRUE,Amboasary,Montauban
+4/2/2024,FALSE,FALSE,Ilihan,Thatta
+4/18/2022,TRUE,FALSE,Kolobovo,Nārang
+6/18/2024,TRUE,TRUE,Dallas,Skrzydlna
+12/17/2022,TRUE,FALSE,Bergen,Oekero
+5/2/2024,FALSE,FALSE,Mapiri,Wangzuizi
+11/10/2022,FALSE,TRUE,Shalkar,Zuru
+10/11/2023,FALSE,FALSE,Quinua,Bilohirs’k
+3/16/2024,TRUE,FALSE,Piedrancha,Lechinkay
+4/1/2023,FALSE,FALSE,Tyachiv,Padre Paraíso
+4/13/2022,TRUE,TRUE,Tsaghveri,Dongtundu
+1/28/2024,FALSE,TRUE,Newark,Sanjiao
+3/20/2023,TRUE,FALSE,Heshui,Zlechov
+8/26/2024,FALSE,TRUE,Lendava,Laleng
+7/1/2023,FALSE,FALSE,Campos Belos,Zhiryatino
+6/1/2023,FALSE,TRUE,Phichai,La Roche-sur-Yon
+5/17/2022,TRUE,TRUE,Aguilares,Mílos
+7/2/2023,TRUE,TRUE,Sila,Qaşr al Farāfirah
+4/17/2024,TRUE,FALSE,Sovetskiy,Puerto Princesa
+11/12/2022,TRUE,TRUE,Duhu,Ribeirinha
+3/26/2022,FALSE,FALSE,Älvsjö,Hongling
+3/1/2024,TRUE,FALSE,Sarishābāri,El Copey
+2/24/2024,TRUE,TRUE,Bangbayang Kaler,Lorient
+8/29/2022,FALSE,TRUE,Yasnyy,Guayaramerín
+4/8/2024,FALSE,FALSE,Banjing,Leer
+11/11/2022,TRUE,TRUE,Shuangxiqiao,Cochabamba
+10/14/2023,FALSE,TRUE,Xumai,Gouxaria
+12/17/2022,TRUE,TRUE,Binguang,Guapimirim
+10/4/2022,FALSE,FALSE,Calheta,Xinchong
+5/25/2024,TRUE,TRUE,Lysá nad Labem,Puteran Kidul
+8/28/2023,FALSE,TRUE,Łomianki,Xinglong
+4/11/2022,TRUE,FALSE,Kannus,Sudikampir
+1/22/2022,TRUE,FALSE,El Águila,Puyehue
+8/29/2022,TRUE,FALSE,Gospić,Ural
+1/4/2024,FALSE,FALSE,Djounie,Balingcanaway
+9/4/2023,FALSE,FALSE,Batasan Bata,Páchni
+4/27/2024,TRUE,FALSE,Lugulu,Kävlinge
+2/5/2022,FALSE,FALSE,Nizhnyaya Maktama,Cigintung
+12/23/2023,TRUE,FALSE,Bagong Sikat,Zhanaozen
+5/21/2023,TRUE,TRUE,Guaíba,Fundación
+7/29/2022,TRUE,TRUE,Xiamao,La Escondida
+2/24/2023,FALSE,FALSE,Huozhuangzi,Barroso
+11/7/2023,TRUE,FALSE,Kampong Speu,Ainaro
+1/28/2024,FALSE,TRUE,Tanjungbalai,Täby
+2/6/2024,FALSE,TRUE,Hongshi,Luleå
+1/5/2023,FALSE,TRUE,Tabonok,Basak
+7/5/2023,TRUE,FALSE,Lingbeizhou,Wilkowice
+2/10/2024,TRUE,FALSE,Chernomorets,Itaqui
+3/3/2024,TRUE,FALSE,Pieniężno,Tuojiang
+9/2/2024,TRUE,TRUE,Pingshan,Banaba
+8/1/2023,FALSE,TRUE,Lian,Talondang
+8/14/2023,FALSE,TRUE,Choca do Mar,Shidu
+3/21/2023,TRUE,TRUE,Tubalan,Quisqueya
+4/14/2022,TRUE,TRUE,Itatskiy,Lagodekhi
+3/21/2022,TRUE,TRUE,Xinle,Katsuura
+1/22/2023,FALSE,TRUE,Ziyang Chengguanzhen,Grebenskaya
+12/5/2023,TRUE,FALSE,Chernelytsya,Namikupa
+7/7/2024,TRUE,TRUE,Crauthem,Brest
+8/7/2022,TRUE,FALSE,Zhongxi,Guanqing
+2/21/2023,FALSE,TRUE,Warwick,Lindavista
+12/8/2022,TRUE,FALSE,Messina,Mobile
+8/12/2023,TRUE,FALSE,Guihing Proper,Altagracia de Orituco
+4/25/2024,FALSE,FALSE,Zongjia,Xinghe Chengguanzhen
+6/23/2022,TRUE,FALSE,Wąwolnica,Hongwei
+6/10/2024,TRUE,FALSE,Isla Verde,Jinfeng
+12/24/2022,FALSE,TRUE,Granadero Baigorria,Wenwusha
+1/25/2023,FALSE,FALSE,Huitong,Ufa
+11/10/2022,FALSE,FALSE,Gaide,Yufrus
+10/7/2022,FALSE,TRUE,Vasylkiv,Nekla
+3/26/2023,FALSE,FALSE,Lanos,Jiedu
+10/25/2023,TRUE,TRUE,Mbaké,Jiehu
+3/16/2023,TRUE,TRUE,Turpay,Buchach
+6/4/2023,FALSE,TRUE,Pag-asa,Cahuacho
+10/1/2023,FALSE,FALSE,Khorlovo,Isugod
+5/9/2023,FALSE,FALSE,Nova Venécia,Jagna
+1/12/2023,FALSE,FALSE,Krajan Craken,Mérignac
+10/15/2023,FALSE,FALSE,Puncaksari,Tân Trụ
+12/9/2022,TRUE,TRUE,Cicapar,Grajaú
+2/18/2024,TRUE,FALSE,Irving,Sitajara
+6/24/2023,TRUE,TRUE,Banaba,Vila do Bispo
+12/30/2023,TRUE,FALSE,Dalianhe,Dahongmen
+5/9/2022,TRUE,TRUE,Kubachi,Ocongate
+2/11/2024,FALSE,TRUE,Kushtia,Shangcai Zhongxing
+11/18/2022,TRUE,TRUE,Ibirité,Tsákoi
+5/31/2023,FALSE,FALSE,Sokarame,Nossa Senhora da Glória
+6/23/2024,TRUE,TRUE,Ulan Hua,Mokil
+12/13/2023,TRUE,TRUE,Waihi,Ampeleíes
+3/26/2023,FALSE,FALSE,Yuqian,Florianópolis
+4/9/2024,TRUE,TRUE,Tyler,Kadubincarung
+4/28/2022,TRUE,TRUE,Claveria,Valky
+7/2/2024,TRUE,FALSE,Dajing,Cordeiro
+1/28/2022,FALSE,FALSE,Hagonoy,Capela
+7/15/2022,FALSE,FALSE,Buena Esperanza,Shangyi
+3/7/2023,TRUE,TRUE,Pavlovsk,Longtan
+11/14/2023,TRUE,TRUE,Eenhana,Boleszkowice
+4/19/2024,TRUE,FALSE,Tarvasjoki,Losari
+3/14/2023,FALSE,FALSE,La Cruz de Taratara,Kaliterus
+12/4/2022,TRUE,FALSE,Beigang,Seremban
+5/17/2024,FALSE,FALSE,Montecillo,Beishan
+1/2/2022,TRUE,TRUE,Kungur,Lishui
+6/22/2023,FALSE,FALSE,Trzciana,El Matama
+12/14/2023,TRUE,FALSE,Scarborough,Peresvet
+4/6/2024,FALSE,TRUE,Obolo-Eke (1),Laau
+8/11/2022,FALSE,TRUE,Nowshera,Venlo
+12/25/2022,FALSE,TRUE,Qixing,Daguma
+1/18/2024,FALSE,FALSE,Shangzhang,Dniprovka
+9/21/2024,TRUE,TRUE,Lecheng,Chor
+6/6/2023,FALSE,TRUE,Amarillo,Pulorejo
+1/19/2023,TRUE,FALSE,El Alamo,Podhum
+11/4/2023,TRUE,FALSE,Kalá Déndra,Bellavista
+10/2/2022,TRUE,FALSE,Badung,Tangzang
+6/2/2024,TRUE,FALSE,Jeremi,Toutuo
+8/6/2024,FALSE,TRUE,Druzhny,Denver
+7/4/2023,TRUE,TRUE,Ołpiny,Pulupandan
+4/18/2022,TRUE,TRUE,Ban Nahin,Limoges
+6/20/2024,TRUE,TRUE,Windsor,Zbraslav
+6/29/2022,FALSE,FALSE,Dorp Tera Kora,Wojnicz
+6/21/2024,FALSE,TRUE,Starokucherganovka,Houmt Souk
+12/30/2023,TRUE,FALSE,Yanino Vtoroye,Labuhansumbawa
+3/5/2023,TRUE,FALSE,New York City,Uście Gorlickie
+1/18/2023,FALSE,TRUE,Correntina,Porta
+1/14/2023,TRUE,FALSE,Junín,Gogosuket
+12/8/2023,TRUE,TRUE,Taldan,Longka
+5/17/2022,FALSE,FALSE,Ketawang,Tagoloan
+7/3/2024,TRUE,TRUE,Elat,Fucheng
+3/25/2022,FALSE,FALSE,Bang Mun Nak,Puqi
+4/3/2023,FALSE,TRUE,Cibeureum Kidul,Agboville
+3/8/2022,FALSE,FALSE,Chợ Lầu,Anse Royale
+2/23/2024,TRUE,FALSE,Eckerö,Pucacaca
+6/27/2024,FALSE,TRUE,Nam Kliang,Naschel
+8/6/2022,TRUE,FALSE,Brooklyn,Maji
+6/21/2023,TRUE,TRUE,Gaotaizi,Tengqiao
+6/29/2023,TRUE,TRUE,Xucheng,Lebahseri
+1/24/2022,TRUE,FALSE,Indang,Ferbane
+6/23/2023,FALSE,FALSE,Émponas,Storuman
+4/4/2023,FALSE,FALSE,Urasqui,Les Sables-d'Olonne
+12/23/2023,FALSE,TRUE,Rosh Ha‘Ayin,Fujiayan
+3/24/2024,FALSE,TRUE,Kotlyarevskaya,Kačanik
+9/25/2024,FALSE,TRUE,Blantyre,Guanlu
+10/14/2022,FALSE,TRUE,That Phanom,Alabug
+11/27/2022,FALSE,FALSE,Tongqiao,Okiot
+8/30/2022,FALSE,FALSE,Dajing,Al Quşayr
+4/15/2023,TRUE,TRUE,Sandvika,Itatuba
+12/16/2023,FALSE,TRUE,Manjing,Tagbilaran City
+12/12/2022,FALSE,TRUE,Dongshangguan,Katyr-Yurt
+1/13/2023,TRUE,FALSE,Margahayu,Gislaved
+9/17/2024,FALSE,TRUE,Pita Kotte,Puerto Morazán
+1/2/2023,FALSE,TRUE,Magang,Urdaneta
+8/27/2022,TRUE,FALSE,Rafael Hernandez Ochoa,Montor Timur
+1/29/2023,TRUE,FALSE,Xinhua,Sukajadi
+8/29/2023,TRUE,FALSE,Sakaiminato,Yangji
+5/8/2023,FALSE,FALSE,Kafr az Zayyāt,Sabbah
+5/6/2024,FALSE,FALSE,Huangzhawan,Panan
+12/1/2023,TRUE,TRUE,Burrel,Upton
+3/18/2024,TRUE,FALSE,Savonranta,Chernogorsk
+10/8/2023,FALSE,TRUE,Rappang,Aomori Shi
+8/1/2023,FALSE,TRUE,Rosebank,Ma‘bar
+3/13/2023,FALSE,FALSE,Nao,Oklahoma City
+2/11/2022,FALSE,FALSE,Drammen,Vide
+6/14/2022,FALSE,TRUE,Balazar,Erdao
+6/17/2022,TRUE,FALSE,Patpata Segundo,Dalam
+7/27/2022,TRUE,FALSE,Páno Polemídia,Mohelnice
+8/4/2022,FALSE,TRUE,Siaton,Cergy-Pontoise
+5/29/2024,TRUE,TRUE,Benešov nad Ploučnicí,Karátoulas
+3/1/2024,FALSE,FALSE,Yuncheng,Koryukivka
+9/12/2022,FALSE,TRUE,Colendra,Zhangxiong
+9/21/2024,TRUE,FALSE,Cimonyong,Guanshui
+12/7/2023,TRUE,TRUE,Nanyaojie,Selasari
+10/12/2023,TRUE,FALSE,Monte-Carlo,Zerkten
+2/6/2022,FALSE,TRUE,Licun,Hrastnik
+4/14/2023,FALSE,TRUE,Fernando Gutierrez Barrios,George Hill
+2/22/2022,TRUE,FALSE,Luojiang,Zhovti Vody
+8/18/2023,TRUE,TRUE,Yulin,Nyuksenitsa
+3/16/2022,FALSE,FALSE,Psyzh,Hongxi
+5/30/2024,FALSE,FALSE,Ganjiang,Rufino
+4/15/2024,FALSE,TRUE,Mainque,Ourtzagh
+4/7/2024,FALSE,FALSE,Saint-Avold,União da Vitória
+9/17/2023,FALSE,FALSE,Guazacapán,Kedungreja
+3/12/2023,TRUE,TRUE,Guofu,Emporeío
+5/9/2024,TRUE,TRUE,Kuala Lumpur,Sindang
+3/27/2022,TRUE,FALSE,Fonte Boa,Koblain
+10/20/2022,TRUE,TRUE,Hongtang,Zhujiaqiao
+11/23/2022,FALSE,FALSE,Pontes,Huajie
+9/2/2023,FALSE,TRUE,Taliouine,Selorejo
+12/21/2022,TRUE,FALSE,Krolevets’,Tongxing
+7/2/2022,FALSE,TRUE,Kokagax,Jiangkou
+1/20/2023,FALSE,TRUE,Oeba,Tiandian
+4/26/2023,FALSE,FALSE,Conel,Cangshan
+8/6/2022,TRUE,TRUE,Krivodanovka,Cabreúva
+2/14/2022,TRUE,TRUE,Bayan Tuohai,Lohayong
+12/20/2023,FALSE,FALSE,Cruces,Verbivka
+5/22/2023,TRUE,TRUE,Linshanhe,Nice
+5/8/2022,FALSE,TRUE,Kushnarënkovo,Timoulilt
+1/29/2022,TRUE,FALSE,Canelas,Dingtao
+2/22/2024,TRUE,FALSE,Llacanora,Magangué
+10/26/2022,FALSE,TRUE,Zhigulevsk,Bengtsfors
+7/9/2022,FALSE,FALSE,Kidatu,Limoges
+7/4/2024,TRUE,TRUE,Citundun,Dayanggezhuang
+8/12/2024,FALSE,TRUE,Bayanan,Rancho Nuevo
+12/17/2023,TRUE,FALSE,Huangqu,Quebo
+1/25/2024,TRUE,FALSE,Novoarkhanhel’s’k,La Virginia
+9/10/2024,FALSE,TRUE,Budagovo,Yiqi
+3/17/2023,TRUE,FALSE,San Pedro,Kuivaniemi
+4/2/2024,TRUE,TRUE,Baisha,Beiqijia
+9/28/2022,FALSE,FALSE,La Sarre,Hailin
+4/5/2022,FALSE,TRUE,Xunzhai,Fratar
+6/25/2023,FALSE,TRUE,Ylihärmä,Dondar Quşçu
+4/21/2022,FALSE,TRUE,Clondalkin,Qacha’s Nek
+8/16/2023,TRUE,FALSE,Suwaluh,Murzuq
+10/28/2023,TRUE,FALSE,Steinsel,Behbahān
+4/11/2022,TRUE,FALSE,Mocajuba,Matão
+1/29/2024,FALSE,FALSE,Gareba,Heshui
+6/24/2022,FALSE,TRUE,Cincinnati,Chengdong
+8/2/2024,TRUE,FALSE,Balibago,Palmares
+2/18/2023,TRUE,FALSE,Porvoo,Janja
+4/7/2024,TRUE,TRUE,Lilla Edet,Tomepampa
+9/1/2022,FALSE,TRUE,Banjar Bucu,Bitkine
+11/4/2023,FALSE,FALSE,Venda Nova,Hejiang
+4/11/2022,TRUE,FALSE,Ubaitaba,Hutang
+4/27/2023,TRUE,FALSE,Vierzon,Las Parejas
+9/14/2022,FALSE,FALSE,Corumbá,Kansas City
+10/23/2022,FALSE,FALSE,Kryevidh,Golynki
+8/31/2024,TRUE,FALSE,Miejsce Piastowe,Rennes
+4/26/2022,TRUE,FALSE,Matagbak,Gunungmalang Satu
+6/7/2022,TRUE,FALSE,Yongxing Chengguanzhen,Shengao
+4/1/2023,FALSE,TRUE,Nifuboko,Tchoban Bey
+12/14/2022,FALSE,FALSE,Pedra,Huwei
+1/18/2024,FALSE,TRUE,Aleksinac,Várzea Paulista
+2/19/2022,FALSE,TRUE,Tegalrejo,Alfonso
+8/17/2024,FALSE,TRUE,Huacrapuquio,Nagarakembang
+2/16/2023,FALSE,TRUE,T’aebaek,Songwon
+3/28/2022,TRUE,FALSE,New Bedford,Tucheng
+8/19/2024,FALSE,FALSE,Wulong,Kimje
+6/27/2024,TRUE,TRUE,Odesskoye,Hondo Valle
+6/1/2022,TRUE,FALSE,Taldan,Kostino
+11/11/2023,FALSE,FALSE,Huochang,Toulouse
+9/5/2023,TRUE,FALSE,Parumasan,Tallinn
+9/7/2022,TRUE,TRUE,Stavanger,Nakhon Pathom
+1/8/2023,FALSE,TRUE,Guhuai,Bogandinskiy
+10/15/2022,FALSE,TRUE,Borlänge,Shiogama
+12/8/2022,FALSE,TRUE,New Shagunnu,Igurubi
+2/26/2024,TRUE,FALSE,Cibeureum,Taphan Hin
+4/20/2023,FALSE,FALSE,Cikuya,Runka
+6/24/2023,FALSE,FALSE,Tegalgede Kulon,Songgui
+5/4/2023,FALSE,TRUE,Karangasem,Imbituva
+9/8/2023,FALSE,TRUE,Falāvarjān,San Juan Bautista
+11/25/2023,FALSE,FALSE,Abū Sunbul,Bantry
+7/2/2024,FALSE,TRUE,Al Ḩarajah,Shchukino
+7/22/2022,TRUE,FALSE,San José,Dangshun
+4/23/2023,FALSE,TRUE,Besançon,Sala
+1/26/2024,FALSE,TRUE,Hongshunli,Nowy Dwór Mazowiecki
+12/4/2022,TRUE,TRUE,Gandzak,Vancouver
+10/2/2022,FALSE,FALSE,Baloc,Al Maţarīyah
+1/4/2024,FALSE,TRUE,Kaset Wisai,Tabu
+6/7/2023,TRUE,FALSE,Nakambala,Arfará
+2/2/2024,FALSE,TRUE,Nikolayevsk,Las Vegas
+2/8/2023,FALSE,TRUE,Ribeiro,Ulaandel
+9/11/2023,FALSE,TRUE,Langxi,Jatirejo
+3/6/2024,FALSE,FALSE,Leiria,Quận Mười
+9/20/2023,TRUE,FALSE,Kamubheka,Neklyudovo
+10/15/2022,FALSE,FALSE,Ta’erqi,Portão
+9/2/2023,FALSE,FALSE,Tambakbaya,Pidsandawan
+10/7/2022,FALSE,FALSE,Chang’an,Le Bourget-du-Lac
+6/23/2024,FALSE,FALSE,Camperdown,Divichibazar
+9/27/2022,FALSE,FALSE,Shibi,Bambuí
+12/20/2023,FALSE,TRUE,Vanimo,Bagacay
+7/20/2023,FALSE,FALSE,Kashmor,Grootfontein
+3/14/2022,FALSE,FALSE,Qırmızı Samux,Khayr Kōṯ
+5/15/2022,TRUE,TRUE,Puyang,Sukaharja
+3/21/2022,TRUE,FALSE,Verkhnyaya Tura,Tutul
+9/19/2024,TRUE,TRUE,Cha’anpu,Helang
+5/4/2023,TRUE,TRUE,Xiangyang,Denver
+7/22/2023,TRUE,FALSE,Nantuo,Troyes
+8/29/2022,TRUE,TRUE,Sam Phran,Strängnäs
+11/22/2022,FALSE,FALSE,Semibratovo,Morcolla
+10/30/2023,TRUE,FALSE,San Isidro,Columbus
+11/13/2023,FALSE,TRUE,Ballymun,Durham
+7/29/2023,TRUE,FALSE,Laranjeiras,Radiměř
+11/2/2023,TRUE,TRUE,Desa Gegempalan,Angkahgede
+5/16/2023,FALSE,TRUE,Cotabato,Qiucun
+6/14/2022,FALSE,FALSE,Brooklyn,Delicias
+12/28/2022,TRUE,FALSE,Águia Branca,Pakel
+3/24/2023,FALSE,FALSE,El Dividive,Strezhevoy
+2/25/2022,FALSE,TRUE,Guogan,Charlestown
+7/3/2024,TRUE,FALSE,Bajomulyo,Santana
+12/23/2023,TRUE,TRUE,Gaoxiang,Fanzhuang
+12/8/2022,TRUE,FALSE,Lloqan,Illintsi
+3/22/2024,FALSE,FALSE,Cihampelas,Kangmei
+1/24/2024,FALSE,TRUE,Ivot,Luftinjë
+4/3/2022,TRUE,TRUE,Svirsk,Limeil-Brévannes
+4/19/2023,TRUE,TRUE,Issy-les-Moulineaux,Serpukhov
+4/17/2022,TRUE,TRUE,Miandrivazo,Kitapak
+12/28/2022,TRUE,TRUE,Yinzhu,Ban Talat Nua
+7/24/2023,FALSE,FALSE,Sallins,Tamiso
+3/7/2023,TRUE,TRUE,Venëv,Mulong
+1/11/2024,FALSE,FALSE,Qingdao,Ponggok
+4/27/2023,FALSE,FALSE,Buluangan,Sendangagung
+4/23/2023,TRUE,FALSE,Gaopi,Bardaï
+1/25/2022,FALSE,FALSE,Ḩājjīābād,Paraguarí
+12/24/2023,FALSE,TRUE,Corumbá,Los Angeles
+11/29/2022,FALSE,TRUE,Brochów,Viseu
+6/15/2022,TRUE,TRUE,El Rosario,Tyresö
+3/26/2024,FALSE,FALSE,Chuanshan,Shuikou
+2/25/2024,FALSE,TRUE,Wengaingo,Zhongguanyi
+6/16/2022,FALSE,FALSE,Anibare,Postmasburg
+8/21/2024,FALSE,TRUE,Lisboa,Duma
+9/13/2023,FALSE,FALSE,Banyupoh,Kościerzyna
+4/24/2024,TRUE,FALSE,Neebing,Yanghe
+1/7/2022,TRUE,TRUE,Shangying,Seidu
+9/30/2024,TRUE,TRUE,Dingtou,Mohammedia
+2/2/2022,FALSE,FALSE,Kafir Yasif,Nova Lima
+4/19/2022,TRUE,TRUE,Galván,Alençon
+1/29/2022,FALSE,TRUE,Zhanaozen,Kitaibaraki
+12/30/2023,FALSE,TRUE,Luebo,Sierakowice
+7/22/2023,TRUE,FALSE,Jaša Tomić,Chacarita
+2/5/2023,FALSE,TRUE,Sydney,Ngembo
+1/23/2023,TRUE,FALSE,Sergeyevka,Baykit
+8/26/2023,TRUE,FALSE,Nol,Shouchun
+2/8/2023,TRUE,TRUE,Teminabuan,Damu
+4/19/2023,TRUE,FALSE,Suisan,Dazaifu
+7/7/2022,TRUE,TRUE,Saint-Quentin-en-Yvelines,Yao’an
+3/11/2022,TRUE,TRUE,Zelenograd,Prata
+5/29/2022,FALSE,FALSE,Carhué,Minbu
+9/4/2023,FALSE,TRUE,Yashan,Jamalteca
+5/10/2022,FALSE,TRUE,Podolí,Zhangpu
+4/29/2022,FALSE,TRUE,Aguelmous,Mapalad
+7/30/2022,FALSE,FALSE,Juatuba,Sigavé
+3/10/2023,TRUE,FALSE,Monastirákion,Thị Trấn Yên Cát
+5/18/2022,FALSE,FALSE,Novotitarovskaya,Sujitan
+8/20/2024,TRUE,FALSE,Zouiat ech Cheïkh,"Palmas De Gran Canaria, Las"
+6/11/2023,TRUE,TRUE,Santa Cruz Muluá,Parksville
+7/28/2024,FALSE,TRUE,Gaotang,Kopashnovo
+2/9/2023,FALSE,FALSE,Krasnaya Polyana,Porsgrunn
+10/13/2022,FALSE,TRUE,Urozhaynoye,Rossosh’
+6/12/2024,TRUE,TRUE,Paris 10,Topolovgrad
+7/6/2022,FALSE,TRUE,Tanguá,Cubará
+2/23/2023,FALSE,TRUE,Laurel,Mangga Dua
+1/26/2023,FALSE,FALSE,Närpes,Zhongxi
+8/2/2024,TRUE,FALSE,Smiřice,Bakung Utara
+10/17/2023,FALSE,TRUE,Sovetakan,Manorhamilton
+12/19/2022,FALSE,FALSE,Kadoma,Taishanmiao
+10/13/2023,FALSE,TRUE,Samdrup Jongkhar,Kedungharjo
+5/29/2023,TRUE,FALSE,Sempol,Lidong
+10/2/2022,TRUE,TRUE,Hässelby,Charlotte Amalie
+9/22/2022,FALSE,FALSE,Nisí,Roa
+9/9/2022,TRUE,FALSE,Bajomulyo,Huangjiazhai
+3/22/2023,FALSE,TRUE,Amherstburg,Akita Shi
+3/3/2024,TRUE,FALSE,Akron,Cisompet
+2/6/2024,FALSE,FALSE,Baisha,Chust Shahri
+8/12/2022,FALSE,FALSE,Jaruco,Charlottenberg
+11/16/2023,FALSE,FALSE,Dulian,Xiacaoqiao
+1/11/2023,FALSE,FALSE,Pentaplátano,Kortesjärvi
+4/10/2023,FALSE,FALSE,Bang Krathum,Metsovo
+3/7/2022,FALSE,TRUE,Suwaluh,Soriano
+11/22/2023,FALSE,TRUE,Shiban,Salingogan
+3/12/2023,TRUE,FALSE,Rafaela,Futaleufú
+4/1/2022,TRUE,FALSE,Ia Kha,Moita da Roda
+4/10/2023,FALSE,FALSE,Lepoglava,Faeanak Dua
+8/17/2022,TRUE,FALSE,Campo Belo,Goght’
+7/22/2024,FALSE,TRUE,Mekarjaya Satu,Trajouce
+5/20/2023,TRUE,TRUE,Kuala Bintang,Zhoutou
+2/4/2024,TRUE,FALSE,Bordeaux,Zyuzino
+10/20/2022,FALSE,TRUE,Klyuchevskiy,Shifang
+10/20/2022,TRUE,FALSE,Odienné,Rokitno
+3/31/2023,FALSE,FALSE,Draginje,Santiago de Cao
+8/7/2023,TRUE,TRUE,Madan,Dijon
+4/20/2023,TRUE,FALSE,Phetchabun,Fada N'gourma
+7/22/2024,FALSE,TRUE,Cilentung,Ludgeřovice
+5/19/2023,TRUE,TRUE,Lesozavodsk,Bangkok
+7/22/2023,TRUE,TRUE,Västerås,Pećigrad
+2/26/2024,TRUE,TRUE,Sangesi,Všenory
+9/4/2023,FALSE,TRUE,Anderstorp,Mantes-la-Jolie
+5/23/2022,FALSE,FALSE,Jiukeng,Susanino
+8/20/2024,TRUE,TRUE,København,Riosucio
+4/22/2024,FALSE,TRUE,Wailolung,Zhukeng
+2/22/2022,TRUE,TRUE,Piribebuy,Sandweiler
+11/8/2022,FALSE,TRUE,Toulouse,Baiima
+4/5/2023,FALSE,FALSE,San Antonio,Kabalen
+4/22/2022,TRUE,TRUE,Al Mālikīyah,Charleston
+6/4/2022,FALSE,FALSE,Montauban,Bamenda
+10/18/2023,FALSE,FALSE,Montevista,Fuding
+12/28/2022,TRUE,FALSE,Huangyang,Bastan
+5/1/2023,FALSE,TRUE,Longquan,Chester
+2/15/2024,TRUE,FALSE,Tianxingchang,Zhenlai
+11/25/2023,FALSE,FALSE,Zhangshui,Bystré
+4/18/2024,FALSE,FALSE,Whittier,Saryg-Sep
+11/20/2023,TRUE,FALSE,Eloy Alfaro,Seulimeum
+8/1/2022,TRUE,FALSE,Tocota,Shirbīn
+1/28/2022,FALSE,TRUE,Libacao,Gorna Oryakhovitsa
+8/6/2022,TRUE,FALSE,Volta Redonda,Vale de São Cosme
+11/18/2023,TRUE,FALSE,Basak,Manat
+10/25/2023,FALSE,FALSE,Luknovo,Mushie
+3/30/2023,TRUE,TRUE,Blizne,Valenciennes
+8/15/2022,FALSE,TRUE,Hostomice,Zhangjiaji
+6/4/2023,FALSE,FALSE,Saharna,Otyniya
+5/2/2022,TRUE,TRUE,Ludwigshafen am Rhein,Bangangté
+4/7/2024,FALSE,FALSE,Chengnan,Cihideung Satu
+8/14/2023,FALSE,FALSE,Chaeryŏng-ŭp,Taojiahe
+5/20/2022,FALSE,TRUE,Seixal,Springfield
+1/22/2022,FALSE,TRUE,Ballyhaunis,Pongol
+9/6/2022,TRUE,FALSE,Petaẖ Tiqwa,Aurillac
+7/18/2022,FALSE,FALSE,Māwiyah,Novogornyy
+5/25/2023,TRUE,FALSE,Giraldo,Polzela
+12/26/2022,FALSE,FALSE,Yelwa,Taipalsaari
+9/10/2022,FALSE,TRUE,Union,Néa Ankhíalos
+4/10/2024,TRUE,TRUE,Hayama,Sibbo
+1/25/2024,TRUE,FALSE,Yongxing Chengguanzhen,Tangquan
+1/10/2024,FALSE,TRUE,El Corpus,Hengjie
+12/30/2022,TRUE,FALSE,San Juan,Đồng Mỏ
+7/10/2024,FALSE,TRUE,Tanjay,Bouca
+6/9/2022,FALSE,TRUE,Huaping,Mérignac
+2/21/2022,TRUE,FALSE,Rahama,Nioki
+1/1/2024,TRUE,FALSE,Kangmei,Razumnoye
+9/19/2022,FALSE,FALSE,Spytkowice,Minante Segundo
+1/7/2023,FALSE,FALSE,Nogent-sur-Marne,Nayoro
+2/3/2022,FALSE,TRUE,Horodok,Curuzú Cuatiá
+4/9/2022,FALSE,TRUE,Shuidong,Bang Yai
+8/30/2023,FALSE,FALSE,Karangtalun,Valada
+6/17/2022,TRUE,TRUE,Jianyangping,Chenyangzhai
+2/28/2023,FALSE,TRUE,San Isidro,Yidu
+2/26/2022,TRUE,TRUE,Bongor,Mizhou
+2/6/2023,FALSE,FALSE,Carrascal,Rouen
+2/17/2023,TRUE,TRUE,Morales,Kitakyūshū
+7/15/2022,TRUE,TRUE,Panggungwinong,Qila Abdullāh
+8/28/2024,FALSE,TRUE,Lacolle,Hepu
+3/29/2022,FALSE,FALSE,Vessada,Gniezno
+1/1/2024,TRUE,TRUE,Krajan Dukuhseti,San Roque
+4/26/2022,TRUE,TRUE,Bhalil,Yushanpu
+3/7/2022,TRUE,FALSE,Panyam,Youxikou
+10/4/2022,TRUE,FALSE,Hengyang,Hermoso Campo
+3/2/2022,FALSE,FALSE,Dijon,Mengdong
+4/14/2023,TRUE,TRUE,Bolderaja,El Espino
+5/12/2023,TRUE,FALSE,Daying,Maceió
+2/23/2022,FALSE,TRUE,Tullinge,Al ‘Azīzīyah
+1/17/2024,TRUE,FALSE,Lanipao,Chengdong
+8/21/2024,FALSE,FALSE,Rokytne,Vojnić
+10/25/2023,FALSE,TRUE,Hutang,Eastern Suburbs Mc
+6/17/2022,TRUE,TRUE,Všenory,Jongīyeh
+5/25/2024,FALSE,FALSE,Barra do Corda,Bao’an
+12/24/2022,TRUE,TRUE,Xiaqiao,El Carril
+2/11/2022,TRUE,FALSE,Kilmacanoge,Smolec
+2/15/2024,TRUE,TRUE,Hāfizābād,Wolofeo
+12/5/2023,TRUE,FALSE,El Capulin,Ash Shajarah
+4/7/2022,TRUE,TRUE,Morondava,Palu
+2/19/2023,FALSE,TRUE,Madrid,Baler Baleagung
+4/25/2022,TRUE,FALSE,Kadukandel,Pangguang
+6/19/2024,FALSE,TRUE,Tsurugi-asahimachi,Muurla
+2/17/2024,TRUE,TRUE,Sedlčany,Hluhluwe
+3/16/2024,TRUE,FALSE,Kota Kinabalu,Yuyapichis
+2/13/2022,TRUE,TRUE,Yangjian,Lukavice
+2/4/2024,FALSE,FALSE,Cidamar,Gunung Sugih
+8/29/2024,FALSE,FALSE,Clondalkin,Cabangahan
+9/30/2022,TRUE,FALSE,Abadiânia,Naperville
+3/27/2024,TRUE,TRUE,Spasskoye-Lutovinovo,Yuyao
+7/29/2023,TRUE,TRUE,Zbraslav,Santo Domingo
+8/14/2023,TRUE,TRUE,Murtajih,Kota Kinabalu
+7/22/2024,TRUE,TRUE,Valinhos,Chom Bueng
+2/9/2023,TRUE,TRUE,Udon Thani,Longtian
+2/3/2022,TRUE,FALSE,Irricana,Merlo
+2/24/2024,FALSE,FALSE,Hengpi,Moulay Bouchta
+3/15/2023,FALSE,FALSE,Nariño,Qinggou
+11/6/2023,TRUE,FALSE,Cayenne,Bayshint
+5/31/2024,TRUE,TRUE,Haoxue,Mahaica Village
+9/22/2023,TRUE,TRUE,Shorko,Podujeva
+8/7/2022,TRUE,FALSE,Palhoça,Temandangjero
+9/29/2022,FALSE,FALSE,Tatarsk,Bobowo
+9/27/2023,FALSE,TRUE,Tartu,Pesnica pri Mariboru
+9/12/2024,FALSE,FALSE,Skała,Pandian
+12/21/2022,TRUE,FALSE,Biris Daja,Dimiao
+9/13/2024,TRUE,FALSE,São Paulo,Stockholm
+2/13/2022,FALSE,TRUE,Sukacai Tengah,Gostynin
+4/1/2024,TRUE,FALSE,Marshintsy,Podkumskiy
+6/25/2022,TRUE,TRUE,Hyesan-dong,Houmt Souk
+3/3/2024,TRUE,TRUE,El Hajeb,São Miguel
+9/27/2023,FALSE,FALSE,Gunungmenang,Aengceleng
+8/15/2023,FALSE,TRUE,Linjiang,Kawambwa
+1/31/2024,TRUE,FALSE,Pushkino,Balpyk Bī
+8/31/2022,TRUE,TRUE,Velyka Lepetykha,Kristinehamn
+6/5/2023,TRUE,FALSE,Yanliang,Lushan
+3/14/2022,FALSE,TRUE,Billdal,Qaşr al Farāfirah
+5/22/2022,FALSE,FALSE,Tubod,Čajniče
+3/19/2023,TRUE,TRUE,Huabeitun,Nārang
+6/17/2024,TRUE,FALSE,Stockholm,Mosquée
+1/26/2023,FALSE,TRUE,Cabatang,Zhenyuan
+8/28/2022,FALSE,TRUE,Luxi,Tīkāpur
+4/24/2023,TRUE,FALSE,Lena,Châteaurenard
+6/11/2022,FALSE,FALSE,Bulu,Quemú Quemú
+3/23/2023,TRUE,TRUE,La Rochelle,Jengglungharjo
+8/15/2023,FALSE,FALSE,Balitoc,Pimentel
+4/7/2023,FALSE,FALSE,Dihtyari,Boyarka
+3/28/2022,TRUE,TRUE,Wonokromo,Šenčur
+9/28/2024,FALSE,TRUE,Bali,Selaphum
+8/6/2024,TRUE,FALSE,Dongxiang,Vitoria-Gasteiz
+9/24/2023,FALSE,FALSE,Jatisari,Osasco
+8/28/2022,FALSE,FALSE,Calingcing,Tempursari Wetan
+7/17/2024,TRUE,TRUE,Tanjungampalu,Tsurusaki
+3/11/2022,TRUE,TRUE,Xuhui,Bzou
+1/16/2024,TRUE,FALSE,Créteil,Umuahia
+1/14/2023,FALSE,TRUE,Onokivtsi,Arauca
+3/21/2024,FALSE,FALSE,Somovo,Novi Kneževac
+11/12/2023,FALSE,TRUE,Minchinābād,Oumé
+9/22/2022,FALSE,TRUE,Geshan,Taiqing
+7/23/2022,TRUE,TRUE,Lishu,Popayán
+8/24/2024,TRUE,FALSE,Tipolo,Mizhuang
+6/6/2024,FALSE,FALSE,Giemdiem,Otoka
+7/24/2022,FALSE,TRUE,Haifa,Quintão
+2/5/2022,FALSE,TRUE,Bagahanlad,Namling
+3/29/2023,FALSE,FALSE,Shimen,Kidatu
+4/16/2024,FALSE,TRUE,Yancheng,Portalegre
+1/14/2024,TRUE,FALSE,Jatiprahu,Addiet Canna
+10/3/2023,TRUE,TRUE,Baiyun,Río
+6/23/2022,FALSE,FALSE,Kebonagung,Selaawi
+8/21/2022,TRUE,FALSE,Minien East,Bulangan
+10/27/2022,TRUE,TRUE,Honglin,Pardelhas
+6/19/2024,FALSE,TRUE,San Juan,Arboleda
+4/2/2024,TRUE,FALSE,Weepangali,Barueri
+10/3/2022,TRUE,FALSE,San Remigio,Kajansi
+1/19/2023,TRUE,TRUE,Pacar,Al Mazzūnah
+2/20/2023,TRUE,TRUE,Hägersten,Huillapima
+6/22/2022,FALSE,FALSE,Frýdlant,Xianyuan
+10/31/2023,FALSE,FALSE,Putrajaya,Ryazanskiy
+5/31/2022,FALSE,FALSE,El Paso,Dongke
+12/20/2023,TRUE,TRUE,Moss,Galapa
+2/7/2022,TRUE,TRUE,La Laguna,Nabunturan
+9/27/2023,FALSE,FALSE,Witihama,Zhihe
+10/6/2022,TRUE,TRUE,Pont-Rouge,Strängnäs
+4/27/2022,TRUE,FALSE,Zhangjiayuan,Nanjing
+3/28/2022,FALSE,TRUE,Kishkenekol’,Ili
+8/26/2023,TRUE,TRUE,Si Prachan,Ferme-Neuve
+9/3/2022,FALSE,FALSE,Zahlé,Riyom
+7/19/2024,TRUE,FALSE,Kedungcangkring,Gori
+5/24/2022,TRUE,TRUE,Puncakwangi,Hangzhou
+5/11/2022,TRUE,FALSE,Shiḩan as Suflá,Maco
+8/9/2024,FALSE,TRUE,Weishan,Praia Grande
+12/8/2022,TRUE,FALSE,Āq Qāyeh,Ilovlya
+11/23/2022,TRUE,FALSE,Kowingir,Umeå
+11/26/2022,FALSE,TRUE,Gusang,Ust’-Donetskiy
+3/2/2024,TRUE,TRUE,Torslanda,Al Maḩfid
+4/17/2024,TRUE,TRUE,Jilili,Somié
+10/8/2023,FALSE,FALSE,Trongsa,Krasnaya Polyana
+4/8/2022,TRUE,FALSE,Teluksantong,Sudimanik
+4/25/2022,TRUE,TRUE,Karagay,La Rochelle
+2/20/2022,FALSE,FALSE,Peso da Régua,Dushk
+9/22/2023,TRUE,TRUE,Mrzeżyno,Baishuitan
+2/26/2022,TRUE,FALSE,Kenyau,Daze
+11/24/2021,TRUE,TRUE,Biao,Oranzherei
+12/25/2022,FALSE,TRUE,Dayin,Al Wajh
+5/3/2024,FALSE,TRUE,Cerava,Leles
+12/7/2022,TRUE,FALSE,Xiaoduchuan,Labney
+11/26/2023,FALSE,TRUE,Valbo,Laranjeiras do Sul
+11/16/2021,FALSE,TRUE,Vetluzhskiy,Gorbunki
+12/30/2022,FALSE,TRUE,Almeria,Calvário
+8/14/2024,FALSE,TRUE,Kertai,Vigan
+4/7/2022,TRUE,FALSE,Oslo,Atiquizaya
+5/15/2024,TRUE,TRUE,Castanheira de Pêra,Kalinkavichy
+10/22/2022,FALSE,FALSE,Artemisa,London
+10/4/2023,TRUE,FALSE,Kaseda-shirakame,Tres Isletas
+7/20/2024,FALSE,FALSE,Cakungsari,Noailles
+1/10/2024,FALSE,FALSE,Cruz del Eje,Stenungsund
+10/12/2023,TRUE,TRUE,Psary,Jinling
+8/6/2021,FALSE,TRUE,Xihe,Buenavista
+12/23/2023,TRUE,FALSE,Kousa,Miguel Hidalgo
+9/26/2022,TRUE,FALSE,Jimeta,Vichy
+6/11/2022,TRUE,FALSE,Unawatuna,Revolucion Verde
+10/5/2022,TRUE,FALSE,Kými,Bilüü
+4/12/2023,TRUE,FALSE,Dawang,Maglajani
+10/24/2022,FALSE,FALSE,Naḥf,Guayaybi
+5/12/2024,TRUE,TRUE,Teseney,Jenesano
+11/16/2021,TRUE,FALSE,Songqiao,Cherga
+5/18/2024,FALSE,TRUE,Del Campillo,Huangdi
+1/7/2023,TRUE,FALSE,Stalowa Wola,Dumandesa
+8/22/2022,FALSE,TRUE,Znamenskoye,Didou
+3/9/2022,TRUE,FALSE,Hexia,Dazhou
+11/3/2023,FALSE,FALSE,Kingscourt,Sepatan
+11/7/2022,FALSE,TRUE,Zhangdian,Jiangwan
+10/29/2021,FALSE,FALSE,Hualgayoc,Banyubang
+3/10/2022,TRUE,FALSE,Néa Flogitá,Severoural’sk
+4/18/2024,FALSE,TRUE,Hicksville,Fornos
+9/27/2021,FALSE,TRUE,Quillota,Denver
+3/9/2024,FALSE,TRUE,Dahongmen,Ramon’
+6/14/2024,TRUE,TRUE,Xihe,Jandira
+3/9/2023,TRUE,TRUE,Tallahassee,Tanjung Pandan
+11/8/2023,TRUE,FALSE,Manakara,Zamboanga
+6/2/2022,TRUE,TRUE,Altunemil,Tempurejo
+5/30/2022,TRUE,TRUE,Blois,Amga
+7/11/2024,FALSE,FALSE,Tāndo Mittha Khān,Laironja
+8/28/2023,FALSE,TRUE,Glubokiy,Jerez
+3/25/2023,FALSE,TRUE,Pasatan,Cacequi
+6/25/2024,TRUE,FALSE,Dongming Chengguanzhen,Balete
+7/24/2022,TRUE,FALSE,Port Harcourt,Jiancheng
+8/5/2021,FALSE,FALSE,Borowno,Rumāh
+9/3/2023,TRUE,FALSE,Siepraw,Reykjanesbær
+9/2/2023,TRUE,TRUE,Maiduguri,Punta Arenas
+6/22/2022,FALSE,TRUE,Aglalana,Sarrazola
+8/12/2022,FALSE,TRUE,Baylo,Fulu
+6/19/2022,TRUE,FALSE,Boliney,Plandi
+4/22/2022,TRUE,TRUE,Lidköping,‘Ayn Ḩalāqīm
+2/10/2024,TRUE,FALSE,Suileng,Pointe-à-Pitre
+9/2/2024,TRUE,TRUE,Bykov,Xianghu
+7/25/2024,FALSE,FALSE,Sang-e Chārak,Las Varillas
+11/4/2021,TRUE,FALSE,Los Angeles,Bellavista
+6/3/2023,TRUE,TRUE,Tiguha,Kuchinarai
+3/2/2023,FALSE,TRUE,Polazna,Genting
+8/1/2023,FALSE,TRUE,Samut Songkhram,Mumias
+6/23/2024,TRUE,TRUE,Bendan,Baishuitan
+3/27/2023,TRUE,FALSE,Samothráki,Zhucun
+12/2/2023,FALSE,TRUE,Daqiao,Noupoort
+4/20/2024,TRUE,TRUE,Ādam,Los Angeles
+12/17/2021,TRUE,TRUE,Haiyang,Barusuda
+8/1/2022,FALSE,FALSE,Brasília,Ukhta
+1/20/2024,TRUE,TRUE,Örebro,Gachancipá
+9/17/2022,TRUE,TRUE,El Cairo,Buíque
+11/18/2021,FALSE,TRUE,Hengelo,Balongmulyo
+5/10/2024,TRUE,TRUE,Kuching,Tost
+1/31/2023,FALSE,TRUE,Maracaju,Jingdang
+9/26/2021,FALSE,TRUE,Praia da Tocha,Tagum
+6/20/2024,FALSE,TRUE,Xigou,Ankazobe
+6/4/2024,FALSE,FALSE,Avellaneda,Olbramovice
+4/26/2022,TRUE,TRUE,Banjar Yehsatang,Hegarsari
+10/8/2023,TRUE,TRUE,Hope,Zhangcun
+1/5/2024,FALSE,FALSE,Jianping,Nianqiao
+6/9/2024,FALSE,FALSE,Fort Myers,Aguas Verdes
+4/14/2024,TRUE,FALSE,Boevange-sur-Attert,Tolosa
+11/30/2021,TRUE,TRUE,Ar Riqāmā,Tomaszów Mazowiecki
+4/20/2024,TRUE,FALSE,Pivovarikha,Alenquer
+1/15/2023,TRUE,FALSE,Changtu,Ceará Mirim
+1/11/2022,FALSE,FALSE,Kubang,Niamey
+1/20/2022,TRUE,FALSE,Staffanstorp,Panglanjan
+8/29/2024,FALSE,TRUE,Ashikaga,Tallbīsah
+12/2/2021,FALSE,TRUE,Senneterre,Aksu
+9/23/2023,FALSE,FALSE,Limushan,Batuan
+4/6/2022,TRUE,TRUE,Köpingsvik,Delmiro Gouveia
+9/12/2023,TRUE,FALSE,Qiaolin,Lourido
+3/8/2024,FALSE,TRUE,Jianggang,Mataya
+5/29/2023,FALSE,TRUE,Tongchuan,Komga
+6/29/2024,FALSE,TRUE,San Jose,Zhanlong
+7/3/2024,FALSE,TRUE,Mustvee,Tsaghkahovit
+7/11/2023,TRUE,FALSE,Cengang,Januszkowice
+2/13/2023,FALSE,FALSE,Sydney,Puntaru
+2/28/2023,TRUE,FALSE,Nelspruit,Jastrzębia Góra
+2/18/2023,FALSE,TRUE,Saint John,Machikou
+3/25/2024,FALSE,TRUE,Kenzhe,Puerto Colombia
+9/10/2023,TRUE,TRUE,Oldřišov,Młynary
+5/1/2024,FALSE,TRUE,Gorskaya,Pangguang
+6/30/2022,FALSE,FALSE,Jacaltenango,Vänersborg
+6/5/2022,TRUE,FALSE,Nong Saeng,Biguaçu
+7/25/2022,FALSE,FALSE,Amouguer,Gijon
+1/23/2024,FALSE,FALSE,Sabang,Basa
+11/19/2021,TRUE,TRUE,Vodňany,København
+7/25/2024,TRUE,TRUE,Perreng,Peredovaya
+1/2/2022,TRUE,FALSE,Zhicheng,San Rafael
+9/26/2023,FALSE,FALSE,Zhangxi,Spiczyn
+6/18/2023,TRUE,TRUE,Runaway Bay,Alpiarça
+1/31/2022,FALSE,TRUE,Canga’an,Zmiyëvka
+12/9/2022,TRUE,FALSE,Marseille,San Nicolás de los Arroyos
+9/19/2022,FALSE,FALSE,Paris 13,Kīsh
+12/24/2023,TRUE,TRUE,Rtishchevo,Alvarães
+11/22/2022,FALSE,FALSE,Boavista,Wao
+2/13/2024,FALSE,TRUE,Horní Stropnice,Obonoma
+2/2/2024,TRUE,FALSE,Arnelas,Pangnirtung
+6/18/2024,TRUE,TRUE,Leuwayang,Jianguang
+8/10/2023,FALSE,TRUE,Nifuboko,Fortaleza
+5/29/2023,FALSE,TRUE,Zvole,Oklahoma City
+12/20/2023,TRUE,FALSE,Mnichovo Hradiště,Mahalapye
+6/7/2024,TRUE,TRUE,Monte Santo de Minas,Rozivka
+4/30/2022,FALSE,TRUE,Jieshipu,Waina
+9/24/2021,TRUE,TRUE,Nyköping,Stockholm
+6/9/2023,TRUE,FALSE,Jinshan,Maria
+2/23/2024,FALSE,TRUE,Teroual,Ingeniero Guillermo N. Juárez
+9/5/2021,FALSE,TRUE,Osoyoos,Bafoussam
+10/17/2021,FALSE,TRUE,Carora,Gashua
+1/11/2024,TRUE,FALSE,Lisui,Uummannaq
+10/15/2021,TRUE,TRUE,Huesca,Cruzeiro do Oeste
+12/25/2023,FALSE,FALSE,Muḩambal,Niutian
+5/11/2024,FALSE,TRUE,Barreiro,Damanhūr
+8/4/2022,TRUE,FALSE,Vítkov,Stěbořice
+9/7/2021,FALSE,FALSE,Dubreuil,Dūrā al Qar‘
+4/12/2024,FALSE,FALSE,Santa Maria da Vitória,Sillon
+10/23/2022,FALSE,TRUE,Oelaba,Pupiales
+11/18/2022,TRUE,FALSE,Banjarbaru,Kipushi
+5/25/2023,TRUE,TRUE,Perdões,La Victoria
+9/7/2022,FALSE,TRUE,Środa Wielkopolska,Nouâdhibou
+8/7/2024,FALSE,TRUE,Nīshābūr,Bat Khela
+2/24/2023,FALSE,TRUE,Pavlovka,Lusambo
+2/12/2023,TRUE,FALSE,Ketampak,Llauta
+6/10/2024,TRUE,TRUE,Albania,Huimin
+5/17/2023,TRUE,TRUE,Jamao al Norte,Shuibian
+6/21/2022,FALSE,FALSE,Shangfang,Carigara
+1/5/2024,TRUE,TRUE,Byumba,Sukhobuzimskoye
+11/30/2023,FALSE,TRUE,Kajan,Quintão
+3/15/2022,TRUE,TRUE,Södertälje,Akarakar
+4/14/2024,TRUE,FALSE,Khorol,Markog
+4/26/2024,TRUE,FALSE,Inuyama,Łomianki
+7/19/2023,TRUE,TRUE,San Antonio,Ipil
+4/16/2023,TRUE,TRUE,São Sebastião do Caí,Hampang
+3/15/2023,TRUE,TRUE,Jeziorany,Enschede
+7/9/2023,TRUE,FALSE,Umm as Summāq,Yanghuxiang
+8/26/2024,FALSE,FALSE,Frederiksberg,Acas
+3/25/2023,FALSE,FALSE,Shuitou,Taounza
+10/22/2021,TRUE,TRUE,Lwówek Śląski,Saint-Péray
+3/3/2022,FALSE,TRUE,Nyrkiv,Bārah
+7/25/2024,FALSE,FALSE,Buta Ranquil,Gopaan
+9/18/2022,FALSE,TRUE,Villa Carlos Paz,Hernani
+7/9/2022,TRUE,FALSE,Burgeo,Tinogasta
+2/22/2024,FALSE,FALSE,Jingmao,Tanahmerah
+1/7/2023,FALSE,FALSE,Vilar do Monte,Kryvyy Rih
+12/21/2023,FALSE,FALSE,Zambujal,Bileća
+10/23/2023,FALSE,FALSE,Vale,Kihniö
+9/26/2023,TRUE,TRUE,San Antonio,Stockholm
+2/5/2022,FALSE,FALSE,Mikstat,Sever do Vouga
+1/31/2024,TRUE,TRUE,Nyzhni Petrivtsi,Lukunor
+2/13/2024,FALSE,TRUE,Taoyuan,Valongo
+1/31/2022,TRUE,FALSE,Oesena,Athens
+7/6/2024,FALSE,TRUE,Hekou,Jiangning
+3/9/2022,TRUE,FALSE,Shawnee Mission,Jinhua
+11/19/2021,TRUE,FALSE,Musan-ŭp,La Troncal
+6/24/2024,FALSE,FALSE,Pingdu,Örebro
+1/30/2024,TRUE,FALSE,Kuma,Mandi Bahāuddīn
+9/14/2022,FALSE,TRUE,Sabugal,Hanam
+9/9/2024,FALSE,TRUE,Sardoal,Huanghua
+5/28/2022,TRUE,FALSE,Kangle,São Domingos de Rana
+9/9/2021,TRUE,FALSE,Thị Trấn Tam Sơn,Kaliro
+2/20/2023,TRUE,FALSE,Atbasar,Lahān
+3/10/2022,TRUE,FALSE,Soroca,Meringkik
+3/25/2023,FALSE,FALSE,Knežica,Sampués
+8/2/2021,FALSE,FALSE,Szombathely,Masty
+11/30/2021,FALSE,TRUE,Krasnodon,Paucar
+2/4/2023,FALSE,TRUE,Jocón,Le Mans
+3/2/2022,TRUE,FALSE,Diamante,Nanyue
+8/16/2021,FALSE,FALSE,Kolumbug,Hougang
+10/6/2021,TRUE,TRUE,Capilla del Monte,Zaječov
+10/24/2022,TRUE,FALSE,Phan Thong,Monte Carmelo
+5/15/2022,TRUE,FALSE,Santa Cruz da Graciosa,Rabat
+10/15/2022,FALSE,FALSE,Aserrí,Ketapang
+2/4/2022,TRUE,TRUE,Tiên Phước,Azueira
+9/2/2024,FALSE,TRUE,Ash Shajarah,Cimo de Vila
+8/23/2024,TRUE,FALSE,Karangpari,Krasnoye
+7/4/2022,FALSE,FALSE,Xiangxiang,Paty do Alferes
+12/3/2022,FALSE,FALSE,Paris 20,Colomi
+7/28/2022,FALSE,TRUE,Abakaliki,La Ceja
+4/4/2024,FALSE,FALSE,Načeradec,Garland
+4/10/2023,TRUE,FALSE,Novoishimskiy,Pamoyanan
+5/17/2022,FALSE,TRUE,Hong’an Chengguanzhen,Kilkenny
+1/26/2024,FALSE,FALSE,Kotabesi,Borzna
+12/24/2023,FALSE,FALSE,Tsinandali,Tarko-Sale
+11/10/2023,FALSE,FALSE,Roblin,Heshan
+12/7/2023,FALSE,TRUE,Napierville,Hatsukaichi
+9/7/2022,FALSE,TRUE,Stakhanov,Caparrapí
+6/3/2023,FALSE,TRUE,Baja Mar,Pecka
+11/16/2021,TRUE,TRUE,Nytva,Houston
+3/10/2022,TRUE,FALSE,Hongyan,Sigayevo
+6/15/2023,FALSE,TRUE,Tebon,Aparecida
+12/4/2023,TRUE,TRUE,Rafael Hernandez Ochoa,Staryy Urukh
+11/18/2021,TRUE,FALSE,Carmelo,Laspezia
+7/24/2024,TRUE,TRUE,Trnovlje pri Celju,Lillehammer
+9/7/2021,FALSE,FALSE,Guantian,Suba
+8/8/2022,FALSE,TRUE,Nakhabino,Ipaba
+10/21/2023,TRUE,FALSE,Cascais,Bondoukou
+7/4/2024,FALSE,FALSE,Malalag,Gomel
+12/30/2021,FALSE,FALSE,Toshkivka,Willowmore
+12/5/2023,TRUE,TRUE,Obihiro,Gedaliang
+5/20/2022,FALSE,FALSE,Margarita,Songgui
+6/21/2024,FALSE,TRUE,Cuozheqiangma,Francisco Sarabia
+1/7/2024,TRUE,FALSE,Palaiomonástiron,Bajia
+1/27/2024,FALSE,TRUE,Bom Despacho,Keyi
+5/6/2023,TRUE,TRUE,Kolodenka,Ndwedwe
+8/26/2023,FALSE,FALSE,Xiashitai,At Samat
+3/7/2024,FALSE,FALSE,Sumberrojokrajan,Sa'dah
+3/17/2024,FALSE,TRUE,Gamut,Taling Chan
+3/20/2023,FALSE,FALSE,Gimbi,Al Matlīn
+8/6/2023,TRUE,TRUE,Suibara,Konstantinovsk
+1/13/2024,TRUE,FALSE,Storozhevaya,Lamakera Dua
+7/13/2023,TRUE,FALSE,San Mariano,Ostružnica
+5/30/2022,FALSE,TRUE,Āsasa,Avellaneda
+11/2/2023,FALSE,TRUE,Yasinya,Kampinos
+8/23/2022,TRUE,TRUE,Nantes,Krajan Kerjo
+7/28/2023,FALSE,FALSE,Walagar,Aix-en-Provence
+9/6/2022,TRUE,TRUE,Ayotupas,Hanjia
+4/20/2022,TRUE,FALSE,Chuanxi,Simod
+6/28/2024,TRUE,FALSE,Nazyvayevsk,Yanwang
+12/9/2021,TRUE,TRUE,Dobryatino,Huayang
+4/26/2023,TRUE,TRUE,Santa Cruz,Lyon
+7/26/2024,TRUE,TRUE,Paulista,Jengglungharjo
+5/10/2024,FALSE,TRUE,San Francisco,As Samawah
+2/18/2023,FALSE,TRUE,Valença do Piauí,Bondokodi
+8/31/2023,TRUE,FALSE,Cuijiamatou,Fredrikstad
+5/9/2024,TRUE,FALSE,Inawashiro,Gijon
+9/22/2024,FALSE,FALSE,Omigawa,Shuhong
+3/12/2023,FALSE,FALSE,Camocim,Mechrá Belqsiri
+8/2/2022,FALSE,TRUE,Boundiali,Mangga Dua
+3/9/2023,FALSE,TRUE,Kinlough,Ponta Grossa
+2/6/2022,FALSE,FALSE,Machagai,Vällingby
+10/23/2023,FALSE,TRUE,Dom Pedro,Trai Ngau
+10/1/2024,TRUE,FALSE,Lyon,Nuquí
+5/23/2022,TRUE,FALSE,Rincón,Václavovice
+7/20/2023,TRUE,TRUE,Beigong,Al Muwayh
+8/15/2024,TRUE,FALSE,Levuka,Des Moines
+7/24/2024,FALSE,FALSE,Dniprovka,Turnišče
+7/21/2022,TRUE,TRUE,Bibrka,Nanxing
+9/11/2022,FALSE,TRUE,Chezhan,Mojimán
+8/21/2022,FALSE,TRUE,Mompós,Čejkovice
+7/2/2024,TRUE,FALSE,Zdenci,Springbok
+7/31/2024,FALSE,FALSE,Berëzovka,Lembongan Kawan
+6/19/2023,TRUE,FALSE,Itabaiana,Jinzhou
+9/10/2023,FALSE,TRUE,Ash Shuhadā’,Qo‘qon
+1/3/2022,FALSE,FALSE,Tabuk,Esquina
+10/22/2023,TRUE,FALSE,Muroran,Ordynskoye
+6/17/2024,TRUE,TRUE,Venâncio Aires,Gómfoi
+12/25/2022,FALSE,FALSE,Fengxizhai,Khorinsk
+3/22/2024,TRUE,FALSE,Iḩsim,Cibeureum
+3/6/2023,TRUE,FALSE,Créteil,Pandean
+3/9/2023,FALSE,FALSE,Mukun,Nagcarlan
+9/10/2023,TRUE,TRUE,Desa Baregbeg,Makhalino
+9/21/2024,FALSE,FALSE,San Jose,Chervone
+7/31/2022,TRUE,TRUE,La Rochelle,Saint John
+11/6/2022,TRUE,FALSE,Manevychi,Langnga
+1/5/2022,TRUE,TRUE,Osnabrück,Wailolung
+5/21/2024,FALSE,TRUE,Koa,Pandasan
+3/6/2023,FALSE,TRUE,Tiedonglu,Miraflores
+9/21/2021,TRUE,FALSE,Ford,Horní Lideč
+2/21/2022,TRUE,FALSE,Teresa,Ongkharak
+1/14/2022,FALSE,TRUE,Dazhangzhuang,El Aïoun
+3/22/2024,FALSE,FALSE,Sufang,Chiguirip
+8/25/2023,FALSE,TRUE,Girey,Whittier
+1/16/2023,FALSE,TRUE,Flic en Flac,Ozurgeti
+9/28/2022,TRUE,TRUE,Springfield,Malakand
+12/10/2021,TRUE,TRUE,Yuyue,Tuateta
+12/9/2022,TRUE,TRUE,Bamencheng,Huaccana
+6/17/2022,TRUE,FALSE,San José,Haolin
+7/17/2022,TRUE,FALSE,Otra Banda,Yandev
+5/26/2022,TRUE,TRUE,Svenljunga,Lousado
+1/15/2024,TRUE,FALSE,Al Maşdūr,Topeka
+9/15/2024,FALSE,TRUE,Decatur,Carlos Barbosa
+1/8/2022,FALSE,FALSE,Los Fresnos,Tacurong
+4/15/2023,FALSE,TRUE,Tomelilla,Fukui-shi
+1/8/2024,FALSE,TRUE,Bellavista,Dangmu
+11/30/2023,TRUE,FALSE,Xilian,Yixi
+10/9/2023,TRUE,FALSE,Bangued,Nkove
+11/3/2022,FALSE,FALSE,Cafayate,‘Attīl
+9/26/2022,FALSE,TRUE,Kapchorwa,Olszówka
+8/4/2022,TRUE,TRUE,Letlhakane,Winduraja
+12/21/2022,TRUE,TRUE,Patambuco,Katyr-Yurt
+3/3/2023,TRUE,FALSE,Nova Cruz,Nakhon Luang
+5/31/2024,TRUE,FALSE,Ordzhonikidzevskiy,Boavista
+8/30/2023,FALSE,TRUE,Anuling,Yong’an
+4/2/2024,FALSE,FALSE,Jeżów Sudecki,Kissidougou
+5/23/2022,TRUE,TRUE,Ghāt,Guangfu
+5/24/2024,TRUE,FALSE,San Jacinto,Huaqiao
+5/13/2022,FALSE,TRUE,Sakhipur,Jianping
+3/29/2022,FALSE,FALSE,Toulon,Qunsheng
+6/9/2024,FALSE,TRUE,Inanwatan,Sankanan
+2/8/2023,TRUE,TRUE,Ob’,Arroio Grande
+5/23/2024,TRUE,FALSE,Dongjingcheng,Perushtitsa
+5/3/2022,TRUE,TRUE,Zhangdian,Qeshm
+3/23/2024,FALSE,TRUE,Neuilly-sur-Seine,Farshūţ
+8/31/2022,FALSE,TRUE,Velykoploske,São João da Boa Vista
+2/15/2022,TRUE,FALSE,Umeå,Ledok
+9/18/2024,FALSE,TRUE,Campo Verde,Rabah
+12/8/2023,TRUE,TRUE,Inírida,Novominskaya
+9/28/2022,TRUE,FALSE,Nogueira,Gumawang
+9/12/2024,TRUE,FALSE,Batanamang,Chinandega
+8/31/2021,TRUE,FALSE,Araxá,San Sebastián de Yalí
+6/25/2023,TRUE,TRUE,Chemerivtsi,Maradi
+6/4/2022,FALSE,TRUE,Montpellier,San Esteban
+9/17/2021,FALSE,FALSE,Iballë,Saint Louis
+8/7/2023,FALSE,TRUE,Vinkkilä,Vardablur
+8/30/2024,FALSE,FALSE,Chiscas,Nguluhan
+7/23/2023,FALSE,FALSE,Oytal,Guohe
+4/11/2023,TRUE,FALSE,Al Khushnīyah,Akouda
+4/23/2022,TRUE,TRUE,Naji,Villanova
+12/30/2022,TRUE,FALSE,Soloma,Detroit
+1/4/2023,TRUE,TRUE,Tras Cerros,Berat
+7/25/2022,TRUE,TRUE,Quilino,Remscheid
+9/2/2024,FALSE,FALSE,Pringsewu,Bellevue
+4/22/2022,FALSE,FALSE,Tucson,Jistebník
+2/3/2023,FALSE,FALSE,Guazacapán,Primorskiy
+3/20/2022,FALSE,FALSE,Teberda,Akure
+6/18/2022,TRUE,TRUE,Paracambi,Niterói
+9/11/2023,TRUE,TRUE,Kamimaruko,Nangkasari
+5/4/2022,FALSE,FALSE,Yiwa,Capacho Viejo
+11/9/2021,TRUE,FALSE,Frakulla e Madhe,Wangcun
+6/15/2022,FALSE,TRUE,Xinzhu,Stratford
+1/2/2022,FALSE,TRUE,Bacong,Nurota Shahri
+10/3/2022,TRUE,TRUE,Velyka Pysarivka,Portland
+8/24/2024,FALSE,TRUE,Ōmagari,Yangfeng
+9/11/2023,FALSE,TRUE,Sambungjaya,Xiyuan
+10/14/2023,FALSE,TRUE,Ilagan,Karak
+4/18/2022,TRUE,TRUE,Zhongxinqiao,Zhemtala
+5/22/2022,FALSE,TRUE,Maracaju,Ust’-Labinsk
+12/11/2022,FALSE,TRUE,Peñal,Sumberdangdang
+10/17/2022,FALSE,FALSE,São Luís do Quitunde,Indianapolis
+3/23/2022,TRUE,FALSE,Richky,Vale de Touros
+2/10/2024,TRUE,TRUE,Jiangkou,Anshan
+11/2/2021,FALSE,FALSE,Barreiros,Klutuk
+4/23/2022,FALSE,TRUE,Fenghuang,Naguilian
+11/3/2023,FALSE,TRUE,Casais Baleal,Saint-Étienne
+9/21/2023,TRUE,FALSE,Yanghe,Plaju
+9/15/2023,TRUE,TRUE,Ādilpur,Palmeira das Missões
+3/9/2022,FALSE,TRUE,Corujeira,La Paz
+8/16/2022,TRUE,TRUE,Belén de los Andaquíes,Mayrtup
+9/24/2023,FALSE,TRUE,Lidingö,Gunem
+11/2/2022,TRUE,FALSE,Shuyuan,Le Blanc-Mesnil
+5/18/2024,FALSE,TRUE,Hinunangan,Ulimonong
+7/10/2024,FALSE,FALSE,Aristóbulo del Valle,Dingzhai
+12/24/2022,FALSE,TRUE,Rio Novo do Sul,Busungbiu
+11/20/2023,FALSE,FALSE,Liuzuo,Būrewāla
+8/9/2021,FALSE,FALSE,Talshand,Kurungannyawa
+12/27/2022,TRUE,FALSE,Podbrdo,Yingcheng
+6/2/2022,TRUE,FALSE,San Ricardo,Klagenfurt am Wörthersee
+2/9/2024,TRUE,TRUE,Bazi,Xiaoxiang
+5/2/2024,TRUE,TRUE,Dujuuma,Stara Kornica
+1/20/2022,TRUE,TRUE,Don Matías,Xiaoguai
+6/5/2022,TRUE,FALSE,Bayanhoshuu,"Coruña, A"
+11/2/2021,TRUE,TRUE,Qiziltepa Shahri,Nangka
+9/4/2022,FALSE,FALSE,Libušín,Gornji Grad
+9/12/2022,FALSE,TRUE,Cotuí,Xiangfu
+6/11/2022,FALSE,TRUE,Boucinha,Juripiranga
+8/19/2023,FALSE,TRUE,Dalmatovo,Imsil
+9/27/2021,FALSE,TRUE,Čeladná,Vigan
+3/30/2023,TRUE,TRUE,Mashizhai,Al Khānkah
+10/7/2021,FALSE,TRUE,Narong,Esmoriz
+2/26/2024,TRUE,TRUE,Banjar Bongangede,Lago
+12/9/2023,TRUE,FALSE,Puerto Cisnes,Fkih Ben Salah
+6/2/2024,FALSE,FALSE,Hongtang,Abelheira
+10/2/2022,FALSE,FALSE,Saint Louis,Dougou
+6/12/2024,TRUE,TRUE,Sanquan,Skomlin
+1/16/2022,TRUE,FALSE,Wenquan,Zubūbah
+7/8/2022,FALSE,TRUE,Yishui,Jamshoro
+8/28/2022,FALSE,FALSE,Washington,Fujisawa
+10/11/2021,TRUE,FALSE,Al Mazār,Jianguang
+3/17/2022,FALSE,TRUE,Thị Trấn Mỹ Lộc,Fryčovice
+1/22/2022,FALSE,FALSE,Tete,Bangeran
+8/30/2022,FALSE,FALSE,Pueblo Nuevo,Gbarnga
+11/7/2022,TRUE,TRUE,Jinsha,Ilha Solteira
+3/25/2024,FALSE,FALSE,Charleston,Kuala Lumpur
+8/6/2024,TRUE,FALSE,Campo Mourão,Rozivka
+2/19/2022,TRUE,TRUE,Chenôve,Boise
+10/4/2022,TRUE,TRUE,Chastyye,Tsaghkaber
+3/30/2022,FALSE,TRUE,Colonia Elisa,Osieczna
+9/19/2023,TRUE,FALSE,Nancha,Fontainebleau
+10/7/2022,FALSE,FALSE,Viloco,Linköping
+11/1/2022,TRUE,FALSE,Kuybyshevo,Mantalongon
+8/19/2021,TRUE,TRUE,Huangchuan,Jabungsisir
+12/11/2022,FALSE,TRUE,Beizhuang,Corral
+5/30/2023,FALSE,TRUE,La Paz,Xian’an
+12/19/2021,FALSE,FALSE,Sīrīs,Fornelos
+10/16/2021,TRUE,FALSE,Jietou,Örebro
+7/9/2022,FALSE,TRUE,Champagnole,Melbourne
+11/25/2022,TRUE,TRUE,Chengui,Waiwukak
+7/30/2024,TRUE,FALSE,Xin’an,Birendranagar
+12/20/2021,FALSE,FALSE,Tanay,Ongandjera
+1/15/2023,TRUE,FALSE,Victoria,Chibombo
+9/7/2021,TRUE,FALSE,Soweto,Matsubara
+3/14/2022,TRUE,FALSE,Una,Nsukka
+12/1/2022,FALSE,FALSE,Tall Salḩab,Malummaduri
+6/28/2023,TRUE,TRUE,Privolzhsk,Dmitrov
+1/13/2024,FALSE,FALSE,Bugojno,Vrbno pod Pradědem
+5/30/2024,TRUE,TRUE,Kassel,Lincheng
+5/9/2022,TRUE,FALSE,Przemków,Temayang
+11/1/2022,TRUE,FALSE,Imari,Sipeng
+12/18/2021,TRUE,FALSE,Fort-de-France,Qianxu Zhen
+8/21/2024,TRUE,FALSE,Dongyu,Amiens
+3/19/2024,TRUE,TRUE,Rasi Salai,Tantu
+2/11/2024,FALSE,FALSE,Barra dos Coqueiros,Pagangan
+10/10/2021,FALSE,FALSE,Tours,Muroto-misakicho
+6/1/2023,TRUE,FALSE,Mungkin,Sumberan
+6/12/2023,FALSE,TRUE,Al Marsá,Sigaboy
+8/30/2024,FALSE,TRUE,Tawangrejo,Bulacan
+7/9/2023,TRUE,TRUE,Velingrad,Vizal San Pablo
+3/24/2024,TRUE,TRUE,Tešanj,Markaz-e Woluswalī-ye Āchīn
+2/27/2022,FALSE,FALSE,Krajan Menggare,Dahua
+1/25/2023,TRUE,FALSE,San Pedro,Pemzashen
+6/13/2024,TRUE,TRUE,Stara Błotnica,Babakanjaya
+1/10/2023,TRUE,FALSE,Kabinda,Zhongshangang
+8/12/2024,FALSE,TRUE,Torez,Sevilla
+4/19/2023,TRUE,TRUE,Shimeitang,Ángeles
+11/24/2022,TRUE,TRUE,Bouillon,Halle
+5/24/2022,FALSE,TRUE,Gal’bshtadt,Souto da Costa
+4/25/2022,FALSE,TRUE,Amalfi,Karakulino
+10/24/2023,FALSE,FALSE,Ipoh,Gunungangka
+1/5/2023,FALSE,TRUE,Drammen,Fukumitsu
+1/6/2023,FALSE,TRUE,Sokol,Ketawang
+6/6/2022,TRUE,TRUE,Tandag,Ciseda
+10/5/2023,FALSE,FALSE,Alicante/Alacant,Trancas
+7/9/2022,TRUE,FALSE,Ḩawsh ‘Īsá,Giedlarowa
+1/5/2024,FALSE,FALSE,Sydney Mines,Zeleneč
+8/7/2021,TRUE,FALSE,Marcos,San Antonio
+8/12/2022,FALSE,TRUE,Dongshan,Banjar Paangkelod
+11/22/2021,FALSE,FALSE,London,Los Angeles
+5/28/2023,TRUE,TRUE,Sishan,Hluhluwe
+2/15/2023,TRUE,FALSE,Basen,Coromandel
+8/11/2024,TRUE,TRUE,Ilembula,Farinheiras
+11/17/2022,FALSE,FALSE,Nanjie,Dongzha
+6/6/2022,FALSE,TRUE,Ayteke Bi,Torslanda
+4/28/2023,TRUE,FALSE,Mañazo,Agustín Codazzi
+9/12/2023,FALSE,TRUE,Zhudian,Sampangan
+9/22/2024,FALSE,FALSE,Lingbeizhou,Huanglong
+12/11/2021,TRUE,FALSE,Ulaan Khat,Ulichnoye
+6/10/2022,TRUE,TRUE,Vysokogornyy,Dongfanghong
+3/7/2022,FALSE,TRUE,Ntoroko,Calvário
+2/19/2023,TRUE,FALSE,Vernon,Aquiraz
+3/20/2022,TRUE,FALSE,Xinmin,Paris 20
+1/30/2024,TRUE,TRUE,Praia Grande,Skerries
+10/16/2023,TRUE,TRUE,Horní Počaply,Sumberrejo
+8/20/2021,TRUE,TRUE,Cartí Suitupo,Mafa
+9/16/2024,FALSE,FALSE,Limoges,Dasi
+1/9/2022,FALSE,FALSE,San Fernando,Tirtopuro
+5/30/2022,TRUE,TRUE,Pangapisan,Neikeng
+2/1/2022,TRUE,FALSE,Xazgat,Gaplek
+6/2/2024,FALSE,FALSE,Vila Chã,Batojaran
+7/27/2022,TRUE,FALSE,Itsukaichi,Takokak
+6/15/2022,TRUE,FALSE,Hedong,Lewoluo
+1/17/2024,FALSE,TRUE,Ballinroad,Shuangshi
+4/9/2023,FALSE,TRUE,Suishan,Talata Mafara
+8/1/2022,TRUE,FALSE,Panjiang,Azacualpa
+1/9/2024,FALSE,FALSE,Pirapo,Stavanger
+9/12/2022,FALSE,TRUE,Hadakewa,Kuiyong
+11/7/2021,FALSE,FALSE,Gýtheio,Gatbo
+6/10/2022,TRUE,TRUE,Chã,Severobaykal’sk
+10/5/2021,FALSE,TRUE,Trai Ngau,San José Poaquil
+8/16/2021,TRUE,FALSE,Chang’an,Coja
+12/15/2022,TRUE,TRUE,Trới,Baitu
+7/16/2023,TRUE,TRUE,Shymkent,Fovissste
+6/22/2023,TRUE,FALSE,Pagangan,Gogaran
+11/10/2021,FALSE,TRUE,Victoria,Maracaibo
+5/7/2022,FALSE,FALSE,Chat Trakan,Tugu
+10/10/2023,FALSE,FALSE,Colonia Minga Porá,Xinghua
+9/23/2023,FALSE,TRUE,Kobyzhcha,Mantang
+11/20/2022,TRUE,FALSE,Cibebek,Badai
+2/24/2022,FALSE,TRUE,Ardazubre,Nanggela
+9/12/2021,FALSE,FALSE,Cevicos,Henggang
+4/26/2024,TRUE,FALSE,Bujaków,Eling
+2/22/2024,FALSE,TRUE,Bilshivtsi,Daugavgrīva
+1/20/2022,FALSE,TRUE,Monkstown,Sevlievo
+1/27/2024,FALSE,FALSE,Gomel,Kwikila
+12/30/2021,FALSE,FALSE,Färgelanda,Liaonan
+4/25/2022,FALSE,TRUE,Baisha,Ōtsuki
+12/21/2023,FALSE,FALSE,Khao Kho,Gwoźnica Górna
+4/25/2023,TRUE,FALSE,Bridel,Monastyryshche
+7/22/2024,FALSE,FALSE,Villa Mercedes,Tipo-Tipo
+6/13/2024,TRUE,FALSE,Bayt Liqyā,Tucaní
+8/14/2021,FALSE,TRUE,Doña Remedios Trinidad,Alavus
+1/15/2023,FALSE,FALSE,Duishan,Dearborn
+1/11/2024,FALSE,FALSE,Nowy Korczyn,Kui Buri
+6/4/2024,FALSE,TRUE,Tabon,Maumbawa
+1/2/2023,FALSE,FALSE,Ituzaingó,San Fernando
+2/6/2024,FALSE,FALSE,Gryaznovskoye,Ube
+1/15/2023,TRUE,FALSE,Dadap,Tolosa
+10/22/2021,FALSE,FALSE,Cartagena,Daegu
+11/3/2021,TRUE,TRUE,Arcachon,Ribaldeira
+9/5/2023,TRUE,TRUE,Morelos,Zengtian
+3/27/2024,FALSE,TRUE,Řehlovice,Oeiras
+8/26/2021,FALSE,TRUE,São Leopoldo,Maliang
+10/9/2023,FALSE,FALSE,Sosnytsya,Monte
+4/10/2022,TRUE,TRUE,Kālābāgh,Qianpai
+8/10/2024,FALSE,TRUE,Demuk,Nanmu
+5/28/2022,TRUE,TRUE,Vilhena,Curug
+4/11/2024,TRUE,TRUE,Quintães,Sindangpanji
+6/11/2023,FALSE,FALSE,Tanjungbalai,Amiens
+6/26/2024,TRUE,TRUE,Klyuchevskiy,Kuhmoinen
+9/19/2022,TRUE,FALSE,Aguitu,Bafia
+12/9/2021,TRUE,TRUE,Rimpeso,Horrom
+5/15/2024,FALSE,TRUE,Nantes,Nîmes
+6/7/2024,FALSE,FALSE,Xingang,Basing
+11/27/2021,FALSE,TRUE,Golynki,Sernovodsk
+1/16/2022,FALSE,TRUE,Pringgoboyo,Hénin-Beaumont
+3/6/2023,TRUE,FALSE,Antou,Chegdomyn
+3/2/2024,TRUE,FALSE,Santa Cruz do Capibaribe,Woshui
+3/19/2022,FALSE,TRUE,Roshal’,Samangawah
+11/24/2021,FALSE,TRUE,Bauta,Konde
+2/17/2023,FALSE,FALSE,Sigli,Podujeva
+8/21/2021,TRUE,TRUE,Waepana,Yunyang
+11/24/2022,TRUE,TRUE,Korczew,San Marcos
+4/19/2024,FALSE,TRUE,Yako,Enköping
+2/27/2024,FALSE,TRUE,Yangji,Tambo Grande
+12/16/2023,TRUE,FALSE,Jiulian,Bergen
+8/7/2024,FALSE,TRUE,Namioka,Binguang
+4/15/2023,TRUE,FALSE,Fojo,Al Misrākh
+6/27/2022,TRUE,TRUE,Raszczyce,Camarate
+4/2/2023,TRUE,FALSE,Khiwa,Bykov
+1/8/2022,FALSE,TRUE,Timezgana,Guaporé
+5/28/2022,TRUE,FALSE,Grijó,Stupari
+11/9/2023,FALSE,TRUE,Jinglongqiao,Gamleby
+11/22/2022,TRUE,TRUE,Parung,Nong Khae
+2/11/2022,FALSE,FALSE,Maishi,Matou
+2/17/2022,TRUE,FALSE,Wangunjaya,Henggouqiao
+8/4/2023,FALSE,TRUE,Quibdó,Shatrovo
+12/24/2022,TRUE,TRUE,Cikiruh Wetan,Dongming
+3/14/2023,TRUE,FALSE,Ōkawa,Jiuxian
+9/10/2021,TRUE,TRUE,Watodei,Bảo Lộc
+2/5/2024,FALSE,TRUE,Ono,San Pedro One
+7/8/2022,TRUE,TRUE,Selasari,Sestroretsk
+2/17/2023,TRUE,TRUE,Bambor,Goodlands
+12/21/2022,TRUE,TRUE,Campechuela,Sīrīs
+8/23/2022,FALSE,TRUE,Shāhdādkot,San Antonio
+1/29/2022,TRUE,TRUE,Laspezia,Krajan
+8/26/2024,TRUE,TRUE,Sainte-Marthe-sur-le-Lac,Södertälje
+7/15/2022,FALSE,FALSE,‘Awartā,Mauponggo
+5/12/2024,FALSE,FALSE,Tieli,Luotaping
+3/11/2022,FALSE,FALSE,Uitenhage,Liuzhuang
+2/24/2022,TRUE,FALSE,Guojiazhuang,Mayahi
+5/2/2022,FALSE,TRUE,Hecheng,Pakisaji
+4/7/2022,FALSE,FALSE,Abuochiche,Vnanje Gorice
+4/18/2024,TRUE,FALSE,Springfield,Nürnberg
+12/11/2021,TRUE,FALSE,Guingamp,San Marcos
+11/2/2023,FALSE,TRUE,Adamstown,Komono
+9/22/2022,TRUE,TRUE,Soko,Rajapeni
+2/9/2024,TRUE,FALSE,Tečovice,El Soberbio
+12/13/2023,FALSE,TRUE,Bacong,Koshki
+4/16/2024,FALSE,TRUE,Bambali,Kugesi
+6/4/2024,FALSE,TRUE,Bystrytsya,Mūdīyah
+9/7/2022,FALSE,TRUE,Roshal’,Sidowayah Lor
+8/3/2024,FALSE,FALSE,Qianqiao,Magallon Cadre
+7/21/2023,FALSE,TRUE,Amparafaravola,Aviles
+12/11/2023,FALSE,FALSE,Osh,Bijela
+3/15/2022,TRUE,TRUE,Arue,Sibaté
+11/11/2022,FALSE,TRUE,Los Angeles,Panolan
+11/7/2023,TRUE,FALSE,Sceaux,Rybarzowice
+6/10/2022,FALSE,TRUE,Kaiyuan,Calmar
+5/17/2022,FALSE,FALSE,Dorp Antriol,Krasnaya Polyana
+8/2/2021,TRUE,TRUE,Tayturka,Dobrzeń Wielki
+9/11/2022,FALSE,FALSE,Outeiro de Polima,Changtian
+4/26/2022,FALSE,TRUE,Knjazevac,Kambatatamakawu
+7/1/2023,FALSE,FALSE,Woniuhe,Bartolomé Masó
+1/13/2023,FALSE,TRUE,Hiroshima-shi,Saint-Jérôme
+8/17/2021,FALSE,TRUE,Huanglin,San Pedro Sacatepéquez
+4/28/2024,TRUE,TRUE,Tartu,Otllak
+11/29/2023,FALSE,TRUE,Chuoyuan,Daoqiao
+8/10/2022,TRUE,TRUE,Dayingjie,Hantai
+6/26/2022,TRUE,TRUE,San Jerónimo,Goght’
+5/26/2024,FALSE,TRUE,Jiefangyan,Esparza
+7/23/2022,TRUE,TRUE,Arras,Drakhtik
+11/4/2023,TRUE,TRUE,Lagunillas,Xiaoshanzi
+1/23/2022,FALSE,FALSE,Abelheira,Campoalegre
+9/11/2023,FALSE,FALSE,Manzanares,Yanshan
+1/9/2023,TRUE,TRUE,Nam Đàn,Qā’en
+9/28/2021,FALSE,FALSE,Dumaguil,Kabac
+7/11/2022,FALSE,FALSE,Werasari,Braga
+2/22/2022,FALSE,TRUE,Stockholm,Kyaikto
+12/29/2021,FALSE,FALSE,Kesabpur,Ipiales
+1/22/2023,FALSE,FALSE,Huanglong,El Bolsón
+8/7/2021,FALSE,FALSE,Zhubei,Pili
+10/30/2022,TRUE,FALSE,Beishan,Banovo Polje
+6/12/2023,TRUE,FALSE,Hoogeveen,Mailag
+8/15/2023,TRUE,TRUE,Amadeo,Radashkovichy
+11/13/2023,TRUE,TRUE,Rezh,Kakan
+2/1/2023,FALSE,TRUE,Saint-Quentin-en-Yvelines,Diofior
+7/2/2024,FALSE,FALSE,Maodian,Fuyong
+10/14/2021,TRUE,FALSE,Xiaoshi,San Pa Tong
+4/16/2023,TRUE,TRUE,Sayḩūt,Colonia Wanda
+3/17/2023,TRUE,TRUE,Juzhen,Drawsko
+4/2/2023,FALSE,FALSE,Jingzhu,Oibioin
+1/10/2022,TRUE,TRUE,Zavety Il’icha,Kangar
+8/28/2021,FALSE,FALSE,Vinica,Omoa
+7/12/2022,TRUE,TRUE,Novyye Gorki,La Julia
+5/27/2024,FALSE,FALSE,Huangguan,Tibati
+3/14/2023,TRUE,FALSE,Thívai,Lukrejo
+6/11/2023,FALSE,FALSE,Bayuwan,Alajuelita
+12/22/2022,FALSE,TRUE,Kresna,Vylkove
+8/18/2022,TRUE,TRUE,Des Moines,Kabac
+6/3/2024,TRUE,FALSE,Tursunzoda,Nombre de Jesús
+8/16/2023,FALSE,FALSE,Buikwe,Taiping
+2/3/2023,TRUE,TRUE,Lycksele,Okhansk
+6/3/2022,TRUE,FALSE,Antony,Três Corações
+4/19/2023,TRUE,TRUE,Habingkloang,Mpongwe
+3/17/2022,FALSE,FALSE,Huaquirca,La Mesa
+6/21/2024,TRUE,TRUE,Lenger,Sumoto
+5/7/2023,TRUE,TRUE,Ambovombe,Alcorriol
+8/25/2023,TRUE,FALSE,Paiisa,Temblador
+4/11/2024,FALSE,FALSE,Bang Krathum,Beidou
+11/8/2023,FALSE,TRUE,Apengjiang,São Pedro
+6/10/2023,TRUE,FALSE,San Felipe,Nanyang
+3/4/2024,FALSE,TRUE,Grazhdanka,Poiares
+1/24/2024,FALSE,TRUE,Bordeaux,Filiátes
+3/17/2022,FALSE,FALSE,Mougins,Belozërsk
+5/15/2023,FALSE,FALSE,Igbor,Beira
+11/29/2023,TRUE,TRUE,Dajianchang,Ampanihy
+9/18/2021,FALSE,TRUE,Ciloa,Tsukawaki
+10/3/2022,TRUE,TRUE,Weicheng,Bitam
+9/2/2021,FALSE,FALSE,Barão de São Miguel,Limón
+9/5/2023,FALSE,FALSE,Portland,Badu
+11/10/2021,TRUE,TRUE,Aracati,Pueblo Nuevo
+9/9/2021,TRUE,TRUE,Starobachaty,San Jose
+12/19/2023,FALSE,FALSE,Karawatung,Niugan
+3/12/2022,TRUE,TRUE,Stefanavíkion,Yujia
+9/1/2021,TRUE,TRUE,Sukamaju,Kotlovka
+8/18/2024,FALSE,FALSE,Ambelókipoi,Rio Claro
+5/13/2023,FALSE,FALSE,Kabinda,Kabul
+5/26/2022,FALSE,TRUE,Hörby,Labuhankananga
+12/21/2023,TRUE,FALSE,Oslo,Koper
+3/3/2023,FALSE,TRUE,Moulay Bouchta,Santa Fe
+9/9/2021,FALSE,TRUE,Manique de Baixo,Dimovo
+1/12/2022,TRUE,TRUE,Buhe,Baoshui
+1/14/2023,TRUE,TRUE,Springfield,Douane
+3/2/2024,TRUE,FALSE,Yishui,Ağdaş
+8/4/2024,TRUE,TRUE,Portoviejo,Moutnice
+8/26/2022,TRUE,FALSE,Khadzhalmakhi,Laylay
+6/27/2024,FALSE,FALSE,Jiujie,Nový Malín
+2/1/2023,TRUE,FALSE,Kamnica,Opi
+12/22/2023,TRUE,FALSE,Hrvace,Yangon
+8/25/2022,FALSE,FALSE,Tabio,Yirga ‘Alem
+6/8/2024,TRUE,FALSE,Shiziling,Umeå
+4/9/2024,TRUE,FALSE,Kinna,Diepsloot
+12/8/2022,TRUE,TRUE,Banjar Tengah,Kyriáki
+2/1/2024,FALSE,TRUE,Tubuhue,Neftobod
+11/21/2021,TRUE,TRUE,Pavshino,Thoeng
+6/8/2024,FALSE,TRUE,Tarub,Bolembre
+3/20/2022,TRUE,TRUE,Machakos,Linggamanik
+6/25/2023,TRUE,TRUE,Jucás,Al Azraq ash Shamālī
+9/20/2024,FALSE,TRUE,Zbůch,Kathmandu
+9/7/2022,FALSE,TRUE,Soriano,Noormarkku
+4/5/2022,FALSE,TRUE,Rizal,Palmeira
+8/18/2023,FALSE,FALSE,Rambatan,Srebrenica
+1/12/2023,TRUE,FALSE,Pélla,Vukojevci
+5/8/2022,TRUE,TRUE,Huifa,Bonao
+6/18/2022,TRUE,FALSE,Nesterov,Bāqim as Sūq
+5/6/2022,TRUE,TRUE,Dongyang,Yuqian
+8/31/2021,FALSE,FALSE,Chapultepec,Furukawa
+12/12/2023,TRUE,FALSE,Mayong,Sabugo
+8/9/2021,FALSE,TRUE,Tsyurupyns’k,Padre Las Casas
+1/15/2024,TRUE,TRUE,Omemee,Touho
+8/28/2023,FALSE,TRUE,Grand Bois,Göteborg
+7/15/2024,TRUE,TRUE,El Fahs,Rancharia
+8/13/2023,FALSE,TRUE,La Cruz,Rancapare
+11/21/2023,TRUE,TRUE,Bluefields,Dietaisi
+8/16/2021,FALSE,FALSE,San Marcos,Oslo
+7/2/2022,FALSE,TRUE,Puttalam,Biga
+9/6/2023,TRUE,FALSE,Changlu,Malati
+3/1/2024,TRUE,TRUE,Modakeke,Ágio Pnévma
+10/3/2021,FALSE,FALSE,Tocota,Tembayangan Barat
+12/8/2022,TRUE,TRUE,Āgaro,Huashu
+4/12/2024,FALSE,FALSE,Biała Piska,Księżpol
+8/6/2023,TRUE,FALSE,Bai’e,Tabaquite
+4/5/2023,FALSE,TRUE,Limoges,Sambilawang
+4/18/2023,TRUE,FALSE,Jishui,Évry
+5/2/2023,TRUE,TRUE,Kafr al Labad,Oslo
+7/18/2023,FALSE,TRUE,Padre Bernardo,Orly aérogare
+8/16/2023,TRUE,TRUE,Bronkhorstspruit,Périgueux
+5/9/2024,TRUE,TRUE,Tilburg,Orlovo
+1/3/2022,FALSE,TRUE,Shangzhuang,Suicheng
+10/25/2021,FALSE,FALSE,Jinhe,São Pedro de Trafaria
+1/10/2022,FALSE,TRUE,Berlin,Zhongtong
+6/11/2023,TRUE,TRUE,Křenovice,Tolú
+10/14/2023,TRUE,FALSE,Tsyelyakhany,Ruo
+10/8/2022,TRUE,FALSE,Sabana Grande de Boyá,Croissy-sur-Seine
+3/2/2023,TRUE,TRUE,Biecz,Piracuruca
+7/16/2022,FALSE,TRUE,Bang Nam Priao,Shilin
+8/11/2023,TRUE,FALSE,Bafilo,Ramat Gan
+3/7/2023,TRUE,FALSE,Xicun,Yangiqo‘rg‘on
+10/31/2021,TRUE,FALSE,Medalem,Xicheng
+11/17/2023,FALSE,FALSE,Beiping,São Luiz Gonzaga
+11/2/2023,TRUE,FALSE,Berlin,Makale
+3/12/2022,FALSE,TRUE,Gunajaya,Honolulu
+5/16/2024,FALSE,TRUE,Stockholm,Leeuwarden
+1/22/2023,FALSE,TRUE,Illintsi,Sungaipuntik
+9/7/2022,FALSE,FALSE,Cheremshan,Licheng
+8/27/2023,TRUE,TRUE,Galapa,Makubetsu
+7/1/2022,FALSE,FALSE,Palangkaraya,Saint Paul
+10/7/2023,FALSE,TRUE,Planá,Muting
+3/13/2022,TRUE,FALSE,Lianhe,Guantian
+7/8/2022,FALSE,FALSE,Ban Talat Yai,Slobodnica
+4/5/2022,FALSE,TRUE,Hetang,Cần Giờ
+2/28/2023,FALSE,FALSE,Ferreira do Zêzere,Si’en
+3/29/2024,FALSE,TRUE,Kazanskoye,Vincennes
+10/31/2023,TRUE,FALSE,Paris 13,Kansas City
+9/4/2022,TRUE,FALSE,Roshchino,Belogorsk
+1/15/2023,TRUE,TRUE,Gap,Youhao
+1/25/2023,FALSE,TRUE,Hrušovany u Brna,Falun
+10/18/2021,TRUE,TRUE,Songjianghe,Sanshan
+10/1/2023,FALSE,TRUE,Tomobe,Longwei
+8/30/2023,TRUE,TRUE,Tymoshivka,Fengmu
+12/18/2022,TRUE,FALSE,Neiba,Thuận Nam
+3/13/2022,FALSE,TRUE,El Copé,Malway
+4/9/2022,FALSE,TRUE,Ferreiros,Coronel Belisle
+6/1/2023,FALSE,FALSE,Besançon,Shiyuetian
+5/12/2023,FALSE,FALSE,Öndörhoshuu,Hoboksar
+5/22/2023,TRUE,FALSE,Almelo,Dioknisi
+9/26/2023,FALSE,FALSE,Kondrovo,Malanville
+3/19/2023,TRUE,FALSE,Basse-Terre,Patao
+3/19/2022,TRUE,FALSE,Karabash,Alvaiázere
+1/20/2022,FALSE,TRUE,Évodoula,Natividade
+8/18/2023,FALSE,FALSE,Chitungwiza,Ikot-Ekpene
+5/28/2024,FALSE,TRUE,Nangang,Offa
+3/23/2023,FALSE,TRUE,Huanoquite,Shigu
+11/21/2022,FALSE,FALSE,Khalopyenichy,Yangcheng
+12/14/2022,TRUE,FALSE,Bené Beraq,U Minh
+8/2/2023,FALSE,FALSE,Blama,Yashiga
+5/16/2022,TRUE,TRUE,Shaxi,Batakte
+4/24/2024,TRUE,TRUE,Gocoton,Hulan
+4/11/2023,FALSE,FALSE,Cubará,Borås
+1/7/2022,FALSE,FALSE,Krajan Jamprong,Tempurejo
+7/9/2024,FALSE,TRUE,Bayanbulag,Sanban
+8/25/2021,FALSE,FALSE,Fare,Malanów
+1/12/2024,FALSE,FALSE,Beizhouzi,Pa Tio
+6/5/2024,TRUE,FALSE,Jugezhuang,Porecatu
+11/24/2023,FALSE,TRUE,Hacıqabul,Triwil
+12/3/2021,TRUE,FALSE,Saltsjö-Boo,Dengzishan
+6/27/2023,TRUE,TRUE,Desakolot,Myski
+7/14/2022,FALSE,TRUE,Torrevieja,Xinbei
+3/23/2023,TRUE,TRUE,Gunajaya,Daxing
+4/17/2023,TRUE,TRUE,Pasirbitung,Erdaohe
+10/12/2021,TRUE,FALSE,Popovi,Tougan
+10/15/2023,FALSE,FALSE,Sertolovo,Stebnyk
+1/14/2024,TRUE,TRUE,Myadzyel,Albany
+11/19/2021,FALSE,TRUE,Liangdong,Burnside
+11/24/2021,TRUE,TRUE,Askaniya Nova,Bonoua
+6/16/2023,TRUE,FALSE,Concordia,Now Zād
+2/3/2024,TRUE,TRUE,Diriamba,Kroczyce
+9/13/2024,TRUE,FALSE,Zhongling,Baiima
+3/23/2022,TRUE,TRUE,Tianchi,Datun
+4/29/2024,FALSE,FALSE,Pledo,Carpina
+5/22/2022,FALSE,FALSE,Maardu,Zhiryatino
+9/19/2023,TRUE,TRUE,Lam Plai Mat,Dailing
+4/25/2023,FALSE,FALSE,Linköping,Oued Laou
+11/7/2021,FALSE,FALSE,Calle Blancos,Baryshivka
+9/21/2021,FALSE,TRUE,Glogovac,Askiz
+6/8/2023,FALSE,TRUE,Tangga,Amersfoort
+4/30/2024,FALSE,TRUE,Shklo,Genève
+3/2/2024,TRUE,FALSE,Cruz,Houxiang
+10/15/2021,FALSE,TRUE,Juḩr ad Dīk,Daming
+11/13/2023,FALSE,FALSE,Homagama,Linghu
+7/12/2023,TRUE,FALSE,Acobambilla,Pankrushikha
+6/9/2022,FALSE,TRUE,Jiatou,Krzemieniewo
+8/24/2024,TRUE,FALSE,Cipesing,Yelenendorf
+12/23/2023,FALSE,FALSE,Bamiantong,Dadong
+12/15/2021,TRUE,FALSE,New Westminster,Talin Hiag
+12/17/2021,FALSE,TRUE,Egvekinot,Põlva
+11/16/2022,FALSE,FALSE,Cần Giờ,Piuí
+2/1/2024,FALSE,FALSE,Sławatycze,Barbudo
+12/26/2022,FALSE,TRUE,Ordzhonikidzevskiy,San Antonio
+10/11/2023,TRUE,TRUE,Lasehao,Cluses
+1/27/2023,TRUE,TRUE,Kasreman Wetan,Liwonde
+9/19/2022,TRUE,TRUE,Akzhal,Dallas
+8/17/2024,TRUE,TRUE,Montreuil,Rio Grande
+4/4/2022,TRUE,TRUE,Voyutychi,Lena
+9/20/2023,TRUE,TRUE,Riversdale,Chengjiang
+5/27/2023,TRUE,TRUE,Huandiqiao,Gierłoż
+9/14/2021,TRUE,TRUE,Metsovo,Neuilly-sur-Seine
+7/3/2022,TRUE,TRUE,Rengat,Bissorã
+9/2/2023,TRUE,FALSE,Tambakan,Feicheng
+2/25/2024,FALSE,FALSE,Pakapasan Ilir,Babakan
+12/5/2021,FALSE,FALSE,Oslo,Águas
+9/6/2024,FALSE,FALSE,Lyon,Rancaseneng
+6/21/2023,FALSE,TRUE,Amouguer,Pandasan
+5/13/2023,TRUE,TRUE,Robertsport,Pasirbatang
+9/22/2022,FALSE,TRUE,Oekero,Stavanger
+9/7/2023,FALSE,TRUE,Poja Nae,Akora
+7/28/2022,TRUE,TRUE,Carpenter,Makurdi
+4/24/2024,FALSE,TRUE,Paulínia,Thiers
+6/7/2024,FALSE,TRUE,Jamundí,Banes
+12/23/2023,FALSE,FALSE,Luka nad Jihlavou,Koímisi
+11/30/2022,TRUE,TRUE,Qeshm,Ihosy
+2/1/2024,FALSE,FALSE,Castilla,Galtek
+1/8/2024,TRUE,FALSE,Bratislava,Fāqūs
+11/2/2021,TRUE,TRUE,Mokwa,Novotroitsk
+12/30/2022,TRUE,FALSE,Aurora,Mzuzu
+10/8/2022,TRUE,TRUE,Tarczyn,Padhahegha
+4/12/2024,FALSE,FALSE,São João del Rei,Skärhamn
+11/21/2023,TRUE,TRUE,Las Matas de Farfán,Knysna
+1/29/2024,TRUE,FALSE,Shuangwang,Bitung
+7/22/2024,TRUE,TRUE,Taraju,Buenavista
+1/7/2023,FALSE,FALSE,Skopje,Meaux
+9/23/2022,TRUE,TRUE,Nīkêh,Sukasenang
+3/3/2022,FALSE,FALSE,Nedryhayliv,Haghartsin
+6/6/2023,FALSE,TRUE,Skellefteå,Dolinsk
+3/29/2022,TRUE,FALSE,Kościerzyna,Banjar Sedang
+11/30/2021,TRUE,TRUE,Lisakovsk,Norrköping
+11/14/2023,FALSE,TRUE,Uhlove,Beigucheng
+3/4/2024,TRUE,TRUE,Concepción de Ataco,Cimanglid
+9/9/2024,TRUE,FALSE,Seattle,Petrovskaya
+10/18/2021,FALSE,FALSE,Kulykiv,Carlos Tejedor
+3/6/2022,FALSE,FALSE,Medveđa,Meizhuang
+6/28/2024,FALSE,FALSE,Mariental,Svalöv
+12/17/2023,TRUE,FALSE,Yuntan,Angelochóri
+10/8/2021,TRUE,TRUE,Vallehermoso,Anhua Daying
+10/7/2023,TRUE,FALSE,Valencia,Soba
+12/19/2022,FALSE,FALSE,Kasturi,Panadura
+5/20/2023,FALSE,FALSE,Kafachan,Bhopālwāla
+9/5/2023,TRUE,FALSE,Cemara,Kamienna Góra
+9/9/2022,FALSE,TRUE,Bojano,Pelym
+12/18/2021,TRUE,TRUE,Almere Stad,Daxindian
+5/15/2023,FALSE,TRUE,Rushankou,Nizhnevartovsk
+9/5/2024,TRUE,TRUE,San Andres,Best
+6/5/2022,FALSE,TRUE,Sơn Tây,Yulong
+9/6/2021,TRUE,TRUE,Ariguaní,Marsada
+6/26/2024,FALSE,TRUE,Mostovskoy,Quba
+1/27/2024,FALSE,TRUE,Caucaia,Cereté
+9/14/2023,FALSE,TRUE,Prostřední Bečva,Vassouras
+8/20/2022,TRUE,FALSE,Jiaze,Ciudad Bolívar
+5/1/2023,TRUE,FALSE,Jiujiang,Till
+5/18/2022,FALSE,FALSE,Nangang,Srokowo
+8/31/2022,TRUE,TRUE,Fāqūs,Seongnam-si
+2/6/2023,TRUE,TRUE,Boleiros,Manhumirim
+9/28/2022,FALSE,FALSE,Tene,Hudson
+3/26/2023,TRUE,FALSE,Hendala,Pedra Furada
+7/26/2023,FALSE,FALSE,Baculin,Foúrnoi
+7/11/2023,TRUE,FALSE,Masākin,Antipolo
+1/3/2023,FALSE,FALSE,Jianzhatan,Brusy
+1/5/2023,FALSE,FALSE,Ramotswa,Paris 20
+7/6/2022,TRUE,TRUE,Barengkok Hilir,Corga
+4/28/2024,TRUE,FALSE,Taling Chan,Jinhui
+11/5/2021,TRUE,TRUE,Selikhino,Xigaoshan
+6/16/2022,TRUE,FALSE,Oranmore,Koh Kong
+10/17/2021,FALSE,FALSE,Kedungdoro,Snizhne
+7/15/2022,TRUE,TRUE,Dugulubgey,Paris 19
+11/19/2023,TRUE,TRUE,Purranque,São Lourenço
+12/14/2021,FALSE,TRUE,Crossmolina,Ilanskiy
+6/27/2022,FALSE,FALSE,Bāft,Tambura
+1/14/2023,FALSE,FALSE,Kotuń,Purísima
+10/23/2021,TRUE,FALSE,Satipo,Nanshan
+8/27/2024,FALSE,TRUE,Bondoboghila,Nikol’skoye
+11/10/2022,FALSE,FALSE,Santa Maria,Trail
+9/3/2022,FALSE,TRUE,Tsimasham,Argungu
+6/9/2022,FALSE,TRUE,Camlachie,Ternate
+5/11/2023,FALSE,FALSE,Nar'yan-Mar,Huarancante
+5/10/2022,FALSE,FALSE,Rucava,Golomunta
+6/21/2024,TRUE,FALSE,Bukama,Nanqiao
+10/31/2021,FALSE,TRUE,Kon Tum,Modderfontein
+5/1/2022,TRUE,TRUE,Itami,Tijucas
+10/11/2021,TRUE,FALSE,Maoqitun,Doba
+4/9/2022,TRUE,FALSE,Dimitrovgrad,Vineuil
+5/2/2022,TRUE,FALSE,Gazimurskiy Zavod,Bailu
+4/15/2022,FALSE,FALSE,Khoroshëvo-Mnevniki,Budagovo
+6/10/2022,TRUE,TRUE,Bayasgalant,Toulouse
+8/8/2023,FALSE,FALSE,Stockholm,Gongyi
+9/26/2022,FALSE,FALSE,Yanglang,Carletonville
+10/9/2022,TRUE,FALSE,Jinan,Polel Diaoubé
+3/22/2023,FALSE,FALSE,Torbeyevo,Bachowice
+1/30/2023,TRUE,FALSE,Tha Bo,Serpukhov
+5/26/2023,TRUE,FALSE,Bagroy,Longgang
+2/17/2022,FALSE,TRUE,Nīkêh,Patulul
+7/5/2024,FALSE,TRUE,Sai’erlong Xiang,Cikondang
+11/4/2022,FALSE,TRUE,Shingū,Paseka
+10/7/2021,FALSE,TRUE,Dushi,Paccha
+6/3/2024,TRUE,FALSE,La Viña,Yushu
+11/4/2023,TRUE,FALSE,Krupka,Seremban
+11/17/2021,TRUE,FALSE,Tal’ne,Biga
+12/30/2021,FALSE,TRUE,Rääkkylä,Mene de Mauroa
+8/5/2021,FALSE,TRUE,Pīrgaaj,Aurora
+5/23/2024,TRUE,FALSE,Simpang Ulim,Parizh
+11/27/2022,TRUE,FALSE,Jielin,Rongxing
+7/11/2024,FALSE,TRUE,Sobreira,Rungkang
+11/30/2022,FALSE,TRUE,Krajan Karanganyar,Yuezhao
+5/5/2022,TRUE,TRUE,Pubal,Cherbourg-Octeville
+7/21/2024,TRUE,FALSE,Rāmganj,Louisville
+12/17/2023,TRUE,TRUE,Sandnes,Novocherkassk
+8/27/2022,TRUE,FALSE,Konice,Jianli
+9/21/2022,FALSE,TRUE,Hukou,Xunhe
+1/2/2024,TRUE,TRUE,Fengxi,Tarbes
+5/11/2024,TRUE,TRUE,Tasböget,Ndano
+6/15/2023,TRUE,TRUE,Quxi,Lyubeshiv
+1/25/2024,TRUE,FALSE,Prienai,Sukasetia
+2/16/2023,FALSE,FALSE,Mahendranagar,Jiading
+2/26/2022,FALSE,FALSE,Bulbul,Guanshan
+4/22/2023,FALSE,FALSE,Xuezhen,Pianling
+11/23/2023,FALSE,FALSE,São Bernardo do Campo,Végueta
+12/4/2022,FALSE,TRUE,Sionogan,Kanchanaburi
+4/14/2023,FALSE,TRUE,Jiangchuanlu,Capela
+9/20/2024,TRUE,FALSE,Kunting,Banjar Tibubiyu Kaja
+5/20/2022,FALSE,TRUE,Khuzdār,Uthai
+8/24/2021,TRUE,TRUE,Tupanciretã,Baru
+5/6/2023,TRUE,FALSE,Samaro,Tseel
+2/23/2024,TRUE,FALSE,Trinidad,Krasnyy Kholm
+3/31/2023,FALSE,FALSE,Cane,Silab
+11/20/2021,TRUE,FALSE,Bibis,Tanagara
+2/13/2022,FALSE,TRUE,Shumyachi,Baghlān
+1/29/2023,FALSE,TRUE,Blatnica,Trabulheira
+1/27/2022,TRUE,FALSE,Suyo,Paris 17
+12/29/2021,TRUE,TRUE,Yakymivka,Springfield
+10/25/2023,TRUE,TRUE,Wahawaha,Chunshui
+10/30/2021,FALSE,TRUE,Novotitarovskaya,Vuka
+4/5/2024,TRUE,TRUE,Malhão,Chuangye
+2/11/2022,TRUE,TRUE,Huangtan,Sintra
+11/2/2023,TRUE,TRUE,Loga,Cahuanuyo
+2/7/2024,TRUE,FALSE,Northern Suburbs Mc,Langkou
+1/30/2022,FALSE,FALSE,Ikoma,Shchelkovo
+8/31/2023,FALSE,FALSE,Qimantage,Kota Kinabalu
+2/20/2022,TRUE,TRUE,Looc,Nanhu
+7/11/2023,FALSE,TRUE,Mengdong,Tangerang
+8/4/2021,FALSE,TRUE,Mabilang,Sidareja
+1/14/2023,FALSE,TRUE,Ulaanbaatar,Kedungdoro
+12/28/2023,TRUE,FALSE,Shpola,Tocha
+2/11/2023,TRUE,TRUE,Kauhan,Ḩalḩūl
+7/16/2022,TRUE,FALSE,Hongshan,Sośnie
+11/18/2023,TRUE,FALSE,Liangdong,Lubochnia
+11/18/2022,FALSE,FALSE,Stanisław Górny,Urcos
+8/18/2021,TRUE,TRUE,Pondokdalem,Ocho Rios
+11/1/2021,FALSE,TRUE,Zhenghu,Perugia
+7/24/2022,TRUE,FALSE,Köpingsvik,Tiztoutine
+11/17/2021,TRUE,FALSE,Vysotsk,Zhentian
+5/5/2022,TRUE,FALSE,Riobamba,Zābolī
+6/28/2023,FALSE,TRUE,Lykóvrysi,Karlstad
+6/16/2024,FALSE,TRUE,Sulbiny Górne,Condado
+3/3/2024,TRUE,FALSE,Vale de São Cosme,Palayan City
+5/2/2024,TRUE,FALSE,Novyy Nekouz,Bowang
+8/22/2021,FALSE,FALSE,Ipueiras,Nyangao
+6/21/2022,FALSE,FALSE,Ronggo,Lembursawah
+7/13/2024,FALSE,TRUE,Malabor,Areni
+12/21/2022,TRUE,TRUE,Chaiyaphum,Longhu
+12/1/2023,FALSE,TRUE,Nachalovo,Angers
+11/27/2023,FALSE,FALSE,Jaguimitan,Cotonou
+11/27/2021,FALSE,TRUE,Lyozna,Salt Lake City
+12/13/2022,FALSE,FALSE,Vondrozo,Ngawen
+7/30/2024,FALSE,TRUE,Ludvika,Nueva Fuerza
+10/7/2023,TRUE,FALSE,Mandala,Lae
+5/5/2024,TRUE,FALSE,Xinfa,Colesberg
+10/25/2022,TRUE,TRUE,Da’an,Chucatamani
+7/11/2023,TRUE,TRUE,Katunayaka,Shiwan
+3/8/2023,TRUE,FALSE,Krajan Pangkah Kulon,Rungis
+9/21/2024,FALSE,TRUE,Laocheng,Ulsan
+11/12/2023,TRUE,FALSE,Villa Gesell,Emar
+12/12/2021,FALSE,FALSE,Puerto Natales,Ebu
+2/7/2024,FALSE,TRUE,Kloangpopot,Genève
+9/24/2021,FALSE,TRUE,Wan’an,Laspezia
+6/2/2022,TRUE,TRUE,Consolacion,Zorgo
+2/11/2022,FALSE,TRUE,Taungdwingyi,Antanhol
+8/21/2024,TRUE,FALSE,Kafachan,Rothesay Bay
+4/2/2022,FALSE,TRUE,Pervomays’ke,Hexi
+1/30/2022,TRUE,TRUE,Kahabe,Lillehammer
+6/3/2022,TRUE,FALSE,Walichnowy,Hashimoto
+10/3/2022,TRUE,TRUE,Kembang,Yangmadao
+10/1/2024,TRUE,FALSE,Eybens,Calinog
+2/5/2023,TRUE,FALSE,Stalbe,Manamrag
+8/8/2023,FALSE,TRUE,Itum-Kali,Al Ḩudaydah
+1/17/2022,TRUE,TRUE,Senlis,Brämhult
+5/8/2024,TRUE,FALSE,Hachiōji,Cusco
+2/4/2022,TRUE,TRUE,Yufrus,Cabalaoangan
+1/15/2022,FALSE,TRUE,El Bolsón,Älvsbyn
+10/22/2021,FALSE,TRUE,Nangang,Frankfort
+11/15/2022,FALSE,FALSE,São Sebastião,Los Angeles
+7/27/2024,FALSE,FALSE,Filipowice,Yujia
+9/14/2022,FALSE,TRUE,Pukou,Fangfan
+1/20/2022,TRUE,TRUE,Maria,União da Vitória
+6/5/2023,FALSE,TRUE,Beloostrov,Zhujiang
+2/26/2023,FALSE,TRUE,Lianhua,Pridonskoy
+8/4/2021,TRUE,TRUE,Ngilengan,Las Matas de Farfán
+9/11/2023,TRUE,TRUE,Saitama,Buan
+10/30/2023,FALSE,TRUE,Pillpinto,Zhaodong
+11/27/2022,TRUE,TRUE,Dvorovi,Nancha
+2/13/2024,TRUE,TRUE,Sukasenang,Lamu
+3/3/2023,TRUE,TRUE,Roanoke,Dalongdong
+3/4/2023,TRUE,TRUE,Huangmao,Krajan Tekung
+3/5/2023,TRUE,TRUE,Washington D.C.,"Newark, New Jersey"
+3/6/2023,TRUE,TRUE,"Newark, New Jersey",Washington D.C. (Dulles)
+3/7/2023,TRUE,TRUE,"Newark, New Jersey",Washington D.C.
+3/8/2023,TRUE,TRUE,Washington D.C.,"Newark, New Jersey"
+3/9/2023,TRUE,TRUE,Washington D.C. (Dulles),"Newark, New Jersey"
+3/10/2023,TRUE,TRUE,"Atlanta, Georgia","Newark, New Jersey"
+3/11/2023,TRUE,TRUE,"Cleveland, Ohio","Atlanta, Georgia"
+3/12/2023,TRUE,TRUE,Washington D.C.,"Newark, New Jersey"
+3/13/2023,TRUE,TRUE,"Newark, New Jersey",Washington D.C.
+3/14/2023,TRUE,TRUE,"Newark, New Jersey",Washington D.C.
+3/15/2023,TRUE,TRUE,Washington D.C.,"Newark, New Jersey"
+3/16/2023,TRUE,TRUE,"Newark, New Jersey",Washington D.C.
+3/17/2023,TRUE,TRUE,"Cleveland, Ohio",Washington D.C.
+3/18/2023,TRUE,TRUE,Washington D.C.,"Newark, New Jersey"
+3/19/2023,TRUE,TRUE,"Chicago, Illinois","Newark, New Jersey"
+3/20/2023,TRUE,TRUE,"Newark, New Jersey","Chicago, Illinois"
+3/21/2023,TRUE,TRUE,"Chicago, Illinois","Newark, New Jersey"
+3/22/2023,TRUE,TRUE,"Newark, New Jersey","Chicago, Illinois"
+3/23/2023,TRUE,TRUE,"Chicago, Illinois","Newark, New Jersey"
+3/24/2023,TRUE,TRUE,"Newark, New Jersey","Chicago, Illinois"
+3/25/2023,TRUE,TRUE,"Newark, New Jersey","Atlanta, Georgia"
+3/26/2023,TRUE,TRUE,"Lafayette, Louisiana","Houston, Texas"
+3/27/2023,TRUE,TRUE,"Baltimore, Maryland","Newark, New Jersey"
+3/28/2023,TRUE,TRUE,"Greensboro, North Carolina","Houston, Texas"
+3/29/2023,TRUE,TRUE,"Jackson, Mississippi","Houston, Texas"
+3/30/2023,TRUE,TRUE,"Houston, Texas",0
+3/31/2023,TRUE,TRUE,"Minneapolis, Minnesota","Houston, Texas"
+4/1/2023,TRUE,TRUE,"Jacksonville, Florida","Cleveland, Ohio"
+4/2/2023,TRUE,TRUE,"Cleveland, Ohio","Jacksonville, Florida"
+4/3/2023,TRUE,TRUE,"Corpus Christi, Texas","Houston, Texas"
+4/4/2023,TRUE,TRUE,"Newark, New Jersey","Pittsburgh, Pennsylvania"
+4/5/2023,TRUE,TRUE,"Pittsburgh, Pennsylvania","Houston, Texas"
+4/6/2023,TRUE,TRUE,"Houston, Texas","Albuquerque, New Mexico"
+4/7/2023,TRUE,TRUE,"Newark, New Jersey","Hartford, Connecticut"
+4/8/2023,TRUE,TRUE,"Houston, Texas","Knoxville, Tennessee"
+4/9/2023,TRUE,TRUE,"Knoxville, Tennessee","Houston, Texas"
+4/10/2023,TRUE,TRUE,"Houston, Texas","Cincinnati, Ohio"
+4/11/2023,TRUE,TRUE,"Albany, New York","Cleveland, Ohio"
+4/12/2023,TRUE,TRUE,"Oklahoma City, Oklahoma","Houston, Texas"
+4/13/2023,TRUE,TRUE,"Kansas City, Missouri","Newark, New Jersey"
+4/14/2023,TRUE,TRUE,"Pittsburgh, Pennsylvania","Newark, New Jersey"
+4/15/2023,TRUE,TRUE,"Charleston, South Carolina","Newark, New Jersey"
+4/16/2023,TRUE,TRUE,"Houston, Texas","Milwaukee, Wisconsin"
+4/17/2023,TRUE,TRUE,"Houston, Texas","Birmingham, Alabama"
+4/18/2023,TRUE,TRUE,"Birmingham, Alabama","Houston, Texas"
+4/19/2023,TRUE,TRUE,"Houston, Texas","Charlotte, North Carolina"
+4/20/2023,TRUE,TRUE,"Knoxville, Tennessee","Houston, Texas"
+4/21/2023,TRUE,TRUE,"Houston, Texas","Norfolk, Virginia"
+4/22/2023,TRUE,TRUE,"Houston, Texas","Richmond, Virginia"
+4/23/2023,TRUE,TRUE,"Houston, Texas","Albuquerque, New Mexico"
+4/24/2023,TRUE,TRUE,"Albuquerque, New Mexico","Houston, Texas"
+4/25/2023,TRUE,TRUE,"Norfolk, Virginia","Houston, Texas"
+4/26/2023,TRUE,TRUE,"Houston, Texas","Fort Myers, Florida"
+4/27/2023,TRUE,TRUE,"Fort Myers, Florida","Houston, Texas"
+4/28/2023,TRUE,TRUE,"Houston, Texas","Kansas City, Missouri"
+4/29/2023,TRUE,TRUE,"Houston, Texas","Corpus Christi, Texas"
+4/30/2023,TRUE,TRUE,"Newark, New Jersey","Omaha, Nebraska"
+5/1/2023,TRUE,TRUE,"Houston, Texas","Cincinnati, Ohio"
+5/2/2023,TRUE,TRUE,"Buffalo, New York","Newark, New Jersey"
+5/3/2023,TRUE,TRUE,"Cleveland, Ohio","Buffalo, New York"
+5/4/2023,TRUE,TRUE,"Houston, Texas","Laredo, Texas"
+5/5/2023,TRUE,TRUE,"Houston, Texas","Indianapolis, Indiana"
+5/6/2023,TRUE,TRUE,"Indianapolis, Indiana","Newark, New Jersey"
+5/7/2023,TRUE,TRUE,"Newark, New Jersey","Columbus, Ohio"
+5/8/2023,TRUE,TRUE,"Atlanta, Georgia","Houston, Texas"
+5/9/2023,TRUE,TRUE,"Charleston, South Carolina","Newark, New Jersey"
+5/10/2023,TRUE,TRUE,"Newark, New Jersey","Indianapolis, Indiana"
+5/11/2023,TRUE,TRUE,"Newark, New Jersey","Savannah, Georgia"
+5/12/2023,TRUE,TRUE,"Houston, Texas","Savannah, Georgia"
+5/13/2023,TRUE,TRUE,"Colorado Springs, Colorado","Houston, Texas"
+5/14/2023,TRUE,TRUE,"Houston, Texas","Indianapolis, Indiana"
+5/15/2023,TRUE,TRUE,"Indianapolis, Indiana","Newark, New Jersey"
+5/16/2023,TRUE,TRUE,"Houston, Texas","Knoxville, Tennessee"
+5/17/2023,TRUE,TRUE,"Knoxville, Tennessee","Newark, New Jersey"
+5/18/2023,TRUE,TRUE,"Houston, Texas","Jackson, Mississippi"
+5/19/2023,TRUE,TRUE,"Houston, Texas","Houston, Texas"
+5/20/2023,TRUE,TRUE,"Charlotte, North Carolina","Cleveland, Ohio"
+5/21/2023,TRUE,TRUE,"Newark, New Jersey","Detroit, Michigan"
+5/22/2023,TRUE,TRUE,"Detroit, Michigan","Newark, New Jersey"
+5/23/2023,TRUE,TRUE,"Greensboro, North Carolina","Newark, New Jersey"
+5/24/2023,TRUE,TRUE,"Houston, Texas","Colorado Springs, Colorado"
+5/25/2023,TRUE,TRUE,"Charlotte, North Carolina","Houston, Texas"
+5/26/2023,TRUE,TRUE,"Cincinnati, Ohio","Houston, Texas"
+5/27/2023,TRUE,TRUE,"Cleveland, Ohio","Boston, Massachusetts"
+5/28/2023,TRUE,TRUE,"Houston, Texas","El Paso, Texas"
+5/29/2023,TRUE,TRUE,"El Paso, Texas","Houston, Texas"
+5/30/2023,TRUE,TRUE,"Grand Rapids, Michigan","Cleveland, Ohio"
+5/31/2023,TRUE,TRUE,"Houston, Texas","Grand Rapids, Michigan"
+6/1/2023,TRUE,TRUE,"Houston, Texas","Charlotte, North Carolina"
+6/2/2023,TRUE,TRUE,"Colorado Springs, Colorado","Houston, Texas"
+6/3/2023,TRUE,TRUE,"Newark, New Jersey","Houston, Texas"
+6/4/2023,TRUE,TRUE,"Oklahoma City, Oklahoma","Houston, Texas"
+6/5/2023,TRUE,TRUE,"Dallas/Fort Worth, Texas","Houston, Texas"
+6/6/2023,TRUE,TRUE,"Houston, Texas","Colorado Springs, Colorado"
+6/7/2023,TRUE,TRUE,"Houston, Texas","Houston, Texas"
+6/8/2023,TRUE,TRUE,"Cleveland, Ohio","Albany, New York"
+6/9/2023,TRUE,TRUE,"Kansas City, Missouri","Houston, Texas"
+6/10/2023,TRUE,TRUE,"Milwaukee, Wisconsin","Houston, Texas"
